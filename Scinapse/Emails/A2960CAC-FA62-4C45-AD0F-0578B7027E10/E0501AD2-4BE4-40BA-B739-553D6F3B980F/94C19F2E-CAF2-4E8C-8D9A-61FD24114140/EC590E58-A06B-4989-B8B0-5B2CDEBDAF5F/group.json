@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "do_objectID": "EC590E58-A06B-4989-B8B0-5B2CDEBDAF5F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 261,
+    "width": 520,
+    "x": 40,
+    "y": 40
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "DC5D3EE2-622E-4F48-8505-ACFE5F475CE5"
+    },
+    {
+      "class": "text",
+      "id": "08A2587B-46E8-4BB2-94E7-E26FBC7AF9CA"
+    },
+    {
+      "class": "text",
+      "id": "6214222F-1A13-4B46-873E-0494E3A447E9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "193FD790-CE28-4952-B774-C5061A7F1C5B"
+    },
+    {
+      "class": "text",
+      "id": "FA4A1C7D-4A9F-456A-BF1F-C23A887CFE6B"
+    }
+  ],
+  "name": "Content",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 0,
+        "constraints": {
+          "automatic": 1,
+          "centerHorizontally": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_420cb60e-83b7-4f38-9e5a-ac111c6bb477",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_fedd6a39-d3c2-4859-a324-cddc0f5b9b2f",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        },
+        "isCollapsing": 1,
+        "spacing": 24,
+        "type": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

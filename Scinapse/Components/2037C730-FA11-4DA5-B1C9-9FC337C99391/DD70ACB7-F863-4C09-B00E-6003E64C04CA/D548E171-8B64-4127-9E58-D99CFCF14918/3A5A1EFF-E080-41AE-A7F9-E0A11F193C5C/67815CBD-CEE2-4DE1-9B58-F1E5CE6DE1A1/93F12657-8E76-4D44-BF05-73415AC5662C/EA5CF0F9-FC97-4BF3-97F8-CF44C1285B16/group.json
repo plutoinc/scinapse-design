@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "EA5CF0F9-FC97-4BF3-97F8-CF44C1285B16",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 128,
+    "width": 232,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1F5004EB-21D3-42B0-9B8C-23B6F4CAC29F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "75D450B2-1607-4180-9B25-CBE335594A56"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B018DFB1-2CEF-4A98-AAA8-A29F2597752B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A46281E9-5EB5-4684-8085-6439EFCB43E7"
+    }
+  ],
+  "name": "Column",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 2,
+        "spacing": 16,
+        "type": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

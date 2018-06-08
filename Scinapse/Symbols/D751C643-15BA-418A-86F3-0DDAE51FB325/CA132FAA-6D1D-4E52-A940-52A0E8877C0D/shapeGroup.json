@@ -1,0 +1,75 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "CA132FAA-6D1D-4E52-A940-52A0E8877C0D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "450EC9CA-0222-4833-8648-F89D82384ABF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4192F8F9-EEAB-4290-AD75-842D2A6C4016",
+    "height": 40,
+    "width": 150,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "AEEF7705-9A7E-4FF2-9F22-3A831B2EDE55"
+    }
+  ],
+  "name": "Border Box",
+  "nameIsFixed": false,
+  "originalObjectID": "49141136-9CC1-4AE6-A56A-AFD0E87423BC",
+  "resizingConstraint": 18,
+  "resizingType": 2,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9647058823529412,
+          "green": 0.9529411764705882,
+          "red": 0.9450980392156862
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "B80EB6ED-5FBA-4C8A-9A26-9B95EECE5413",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "C8DC7391-7A72-48F2-ABFD-FEDF704A788F",
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "do_objectID": "61E14B6D-BC72-40C3-AAE9-DBA172F08102",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 21,
+    "width": 105,
+    "x": 30,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8D0CF12C-BAD3-4BAC-9F40-F2F5CA2BEB64"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "84C58005-E01F-4D60-A7B1-7AD09CB80027"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "772F6F57-C9E7-4181-91A7-14DDE1A9B754"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0DE62B4E-5586-471B-BF6B-CF4B9F371231"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AE4D9FB0-FFB9-49AE-A588-ECF1D1996BC6"
+    }
+  ],
+  "name": "Rating",
+  "nameIsFixed": true,
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 0,
+        "isCollapsing": 1,
+        "spacing": 0,
+        "type": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}
