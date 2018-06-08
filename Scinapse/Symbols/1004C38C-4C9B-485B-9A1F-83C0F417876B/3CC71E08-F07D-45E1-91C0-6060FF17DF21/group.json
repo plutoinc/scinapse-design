@@ -1,9 +1,9 @@
 {
-  "_class": "symbolInstance",
-  "do_objectID": "B0F29E03-6C3C-4ACB-8C95-80DBAB3F0E27",
+  "_class": "group",
+  "do_objectID": "3CC71E08-F07D-45E1-91C0-6060FF17DF21",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "7581B513-7A6F-406B-A986-FF9EA8FC9ED3",
+    "do_objectID": "948F961D-213B-469C-92AD-15B2F521EF57",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,34 +14,39 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "4DE97EFA-A824-47E6-B39D-31684BFFA0CA",
+    "do_objectID": "52D48F04-4F19-4D84-95ED-57E95AD93849",
     "height": 60,
     "width": 1440,
     "x": 0,
     "y": 0
   },
-  "horizontalSpacing": 0,
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Nav/Signin",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DFE461DE-1B70-406C-B959-2A33EFEB86BA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FE90E4CE-224C-406F-B76D-D02DF1D6D5F7"
+    }
   ],
+  "name": "Nav/Signin",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "9A3F5296-B5C5-4D52-B77D-CDFCF2BE7119",
+    "do_objectID": "25E0D2EB-4840-4D47-B87A-EDA7FBBAE7C1",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "symbolID": "39B3DC10-F4E2-47E3-B652-1F927F348C2D",
-  "verticalSpacing": 0
+  }
 }
