@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "AAFC199B-3C1B-4458-B7D3-F257EC9AD03F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "18311AB2-B325-494E-BC1F-DC251D594E0A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6C49A4F5-8C65-4189-BE3F-28ABCA16C812",
+    "height": 44,
+    "width": 488,
+    "x": 221,
+    "y": 361
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Field/Search/PC",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "436B8272-1B18-49F4-B1D4-7F7750AE4164",
+      "overrideName": "BF3C7B87-B3B2-48F6-A47A-C986CC296296/5EA6196B-537B-4ABE-8179-B1162E8CED10_symbolID",
+      "value": "14463C30-912E-4EF9-99E6-F703C0AB138C"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F4484F65-D110-4476-BF68-E2B045541F04",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 8,
+        "color": {
+          "_class": "color",
+          "alpha": 0.05,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 4,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "symbolID": "E31E5D41-896D-458E-9CD4-CB96204B38FA",
+  "verticalSpacing": 0
+}
