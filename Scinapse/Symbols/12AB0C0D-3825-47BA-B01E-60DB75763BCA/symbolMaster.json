@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 679,
+  "changeIdentifier": 681,
   "do_objectID": "12AB0C0D-3825-47BA-B01E-60DB75763BCA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 518
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -56,7 +56,7 @@
   "name": "Field/Basic/Lable",
   "nameIsFixed": true,
   "originalObjectID": "12AB0C0D-3825-47BA-B01E-60DB75763BCA",
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

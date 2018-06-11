@@ -100,6 +100,10 @@
       "id": "693CF1D1-A451-4DEE-982A-4E522DBEBB18"
     },
     {
+      "class": "shapeGroup",
+      "id": "D908D5B2-4941-435C-91DE-67D4A57CE7C7"
+    },
+    {
       "class": "symbolInstance",
       "id": "34502DF4-1EF5-4B57-B183-5F4668501790"
     },
@@ -122,6 +126,10 @@
     {
       "class": "symbolInstance",
       "id": "71BA56CE-BCB8-4E2D-ABF9-1998F6A14250"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "10297E95-2281-4B25-946B-59C70BA0BCF4"
     }
   ],
   "layout": {
@@ -134,7 +142,7 @@
     "gutterWidth": 22,
     "guttersOutside": false,
     "horizontalOffset": 120,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1200

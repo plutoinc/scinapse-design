@@ -24,7 +24,7 @@
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 54,
             "minimumLineHeight": 54
@@ -55,10 +55,10 @@
     "do_objectID": "FA66F820-B315-4542-8935-FD5056CF6868",
     "height": 54,
     "width": 559,
-    "x": 221,
-    "y": 219
+    "x": 441,
+    "y": 191
   },
-  "glyphBounds": "{{2, 12}, {489, 34}}",
+  "glyphBounds": "{{35, 12}, {489, 34}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -76,11 +76,10 @@
     "do_objectID": "69A4B895-0600-4CDB-9E9F-A46F10A48618",
     "endDecorationType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "24C0444A-5FBB-4978-AB0E-CD09CE3385AF",
+    "sharedObjectID": "97DA61DD-CFD8-440F-90A1-A63664AE80B3",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "F2F42AA0-948D-419E-A6C6-0CBB3BA3C158",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -100,7 +99,7 @@
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 54,
           "minimumLineHeight": 54
