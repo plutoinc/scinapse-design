@@ -10,6 +10,12 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "895EFA5D-0E59-4E03-A69F-2BBE3BE6909D",
+    "do_objectID": "A478D4AA-116C-41DD-814A-4B03A315DBC0"
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -28,10 +34,6 @@
     {
       "class": "text",
       "id": "982A4265-222F-48EF-8A7C-E38188ECD57C"
-    },
-    {
-      "class": "text",
-      "id": "389A9117-32BB-4B93-80C5-13C5868405D3"
     },
     {
       "class": "text",

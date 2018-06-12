@@ -64,12 +64,12 @@
       "id": "E59047B4-D19D-45FC-8FBF-DE321AEF10B1"
     },
     {
-      "class": "group",
-      "id": "F0671241-C1EF-4D29-8B5B-9AAF36C13291"
+      "class": "text",
+      "id": "40B299CA-0AA4-4F0D-ABD2-4CC91DD0B86C"
     },
     {
       "class": "text",
-      "id": "40B299CA-0AA4-4F0D-ABD2-4CC91DD0B86C"
+      "id": "94276B2D-473D-492A-BA8C-DDC8629AF0CE"
     },
     {
       "class": "symbolInstance",
@@ -87,14 +87,14 @@
     "gutterWidth": 22,
     "guttersOutside": false,
     "horizontalOffset": 120,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1200
   },
   "name": "Collection",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

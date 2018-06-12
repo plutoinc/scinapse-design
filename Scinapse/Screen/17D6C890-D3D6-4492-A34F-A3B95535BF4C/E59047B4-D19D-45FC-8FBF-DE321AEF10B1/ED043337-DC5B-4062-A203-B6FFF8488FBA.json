@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.207843137254902,
-            "green": 0.1647058823529411,
-            "red": 0.1176470588235294
+            "blue": 0.4862745098039216,
+            "green": 0.4274509803921569,
+            "red": 0.4
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Regular",
-              "size": 14
+              "size": 18
             }
           },
           "kerning": 0,
@@ -25,8 +25,8 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 20,
-            "minimumLineHeight": 20
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
           }
         },
         "length": 107,
@@ -52,12 +52,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "D33B5850-BACD-4D15-8866-596B231C6929",
-    "height": 40,
-    "width": 589,
+    "height": 48,
+    "width": 691,
     "x": 0,
-    "y": 52
+    "y": 49
   },
-  "glyphBounds": "{{0, 3}, {587, 35}}",
+  "glyphBounds": "{{0, 3}, {663, 43}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -75,7 +75,7 @@
     "do_objectID": "5DBE7C93-635C-4C47-A13D-6CDD8EA47B4E",
     "endDecorationType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "29EB7150-FD64-4997-A6FF-84A2AF0DDF6F",
+    "sharedObjectID": "7128504B-EBD0-48DB-AD8E-31D7DBB20FDE",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
@@ -83,15 +83,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.207843137254902,
-          "green": 0.1647058823529411,
-          "red": 0.1176470588235294
+          "blue": 0.4862745098039216,
+          "green": 0.4274509803921569,
+          "red": 0.4
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-Regular",
-            "size": 14
+            "size": 18
           }
         },
         "kerning": 0,
@@ -99,8 +99,8 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 20,
-          "minimumLineHeight": 20
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
         }
       },
       "verticalAlignment": 0

@@ -56,18 +56,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "60E54FBE-C957-455F-B9DC-EFC4340B551C"
-    },
-    {
-      "class": "group",
-      "id": "53E8B537-B488-46A0-82EA-3F62D5359FB8"
-    },
-    {
-      "class": "group",
-      "id": "A3045A6A-7836-4223-A35E-D22112FE01BE"
-    },
-    {
       "class": "symbolInstance",
       "id": "715A2EB6-B202-4D6E-ABDA-447E590D4FFE"
     },
@@ -182,6 +170,22 @@
     {
       "class": "group",
       "id": "13057867-C505-4C11-BBCE-BB80A1D847D5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "39765789-3C6A-4261-83C5-F19FB47FB44A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DED0613E-FC68-4C3D-937F-682FA2BF8549"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B612F774-8CFB-4080-840D-28445ABFF91D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8FD7D6FC-E295-4BEE-B5CF-FE452FDBA292"
     }
   ],
   "layout": {
@@ -195,14 +199,14 @@
     "gutterWidth": 22,
     "guttersOutside": false,
     "horizontalOffset": 120,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1200
   },
   "name": "Result",
   "nameIsFixed": true,
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
