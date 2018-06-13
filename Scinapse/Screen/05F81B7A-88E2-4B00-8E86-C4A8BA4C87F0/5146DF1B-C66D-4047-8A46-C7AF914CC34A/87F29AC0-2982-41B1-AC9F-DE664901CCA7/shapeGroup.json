@@ -1,9 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "867AF12A-18B6-490A-A266-F879E2F45003",
+  "do_objectID": "87F29AC0-2982-41B1-AC9F-DE664901CCA7",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "CD968BE5-D009-4F19-94E8-F5BC12EF7716",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -23,13 +24,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18,
-    "width": 4,
-    "x": 10,
-    "y": 3
+    "do_objectID": "C01FB76B-E9F1-449C-BC3C-F713584B7E12",
+    "height": 14,
+    "width": 13,
+    "x": 3,
+    "y": 96
   },
   "hasClickThrough": false,
-  "hasClippingMask": true,
+  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -37,27 +39,39 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "359C63C4-86F5-450D-BE40-B72FA6AC604D"
+      "class": "oval",
+      "id": "A1B604A9-4283-4A96-8572-4F082B49D27E"
     },
     {
-      "class": "shapePath",
-      "id": "FD337060-C373-490D-9E22-BC6022463891"
-    },
-    {
-      "class": "shapePath",
-      "id": "38B9388B-E85D-439B-BDCA-CEBD11DCC01F"
+      "class": "oval",
+      "id": "7B0D95D6-BD42-435A-AC88-C890BA0289BE"
     }
   ],
-  "name": "Overflow",
-  "nameIsFixed": true,
-  "originalObjectID": "867AF12A-18B6-490A-A266-F879E2F45003",
+  "name": "Combined Shape",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7098039215686275,
+          "green": 0.6392156862745098,
+          "red": 0.6039215686274509
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "823151DE-0E4D-4575-9C75-CC34B8C1D55E",
     "endDecorationType": 0,
     "fills": [
       {
@@ -65,20 +79,20 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
         "fillType": 0,
         "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 0,
+        "patternFillType": 1,
         "patternTileScale": 1
       }
     ],
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "windingRule": 0
+  "windingRule": 1
 }

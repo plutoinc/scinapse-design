@@ -1,9 +1,9 @@
 {
-  "_class": "symbolInstance",
-  "do_objectID": "34502DF4-1EF5-4B57-B183-5F4668501790",
+  "_class": "group",
+  "do_objectID": "828BDDFD-C109-45A5-8AB4-E221D0AFC102",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D16465B9-4973-4655-A7E5-1ED4FF3214B5",
+    "do_objectID": "18337278-D45A-44FF-A923-C7FB6843E90E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,34 +14,39 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A4D3A5FF-D236-4FD7-B764-793351C98B0B",
-    "height": 211,
-    "width": 691,
-    "x": 221,
-    "y": 746
+    "do_objectID": "46ECE33A-42BC-40D0-B1EE-2287DB532491",
+    "height": 13,
+    "width": 11,
+    "x": 4,
+    "y": 71
   },
-  "horizontalSpacing": 0,
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Paper/Brief",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0A19DC07-116D-48B4-B393-0145CEBCF28D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DEE76AFE-BED7-43BD-85B1-3741AA3503DB"
+    }
   ],
+  "name": "Group 3",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "A58D7053-F152-4A89-AB3C-6E13362349B1",
+    "do_objectID": "F524BF0F-4ECB-462C-A491-9C6AA4D34ADB",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "symbolID": "A219943B-4266-4C7E-A20D-D92984ABAF87",
-  "verticalSpacing": 0
+  }
 }
