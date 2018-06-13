@@ -60,10 +60,6 @@
       "id": "C776276B-3DBE-45AC-9531-B5C5023F496D"
     },
     {
-      "class": "group",
-      "id": "E59047B4-D19D-45FC-8FBF-DE321AEF10B1"
-    },
-    {
       "class": "text",
       "id": "40B299CA-0AA4-4F0D-ABD2-4CC91DD0B86C"
     },
@@ -74,6 +70,26 @@
     {
       "class": "symbolInstance",
       "id": "87036ABB-7EFF-4398-9232-F683F06B66B2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F2187920-F6D0-4A6F-AAFD-1C1FD6237FAF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E1959777-8239-4A6B-B4AD-7A2AF5123865"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "07319B2B-BF17-48C8-BA75-BEDAE5D10EC5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C932D4B1-8AF4-46B0-8531-7E6FAE3C2C51"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "511E1A00-8B72-46AE-A366-4E793E1E8753"
     }
   ],
   "layout": {
@@ -94,7 +110,7 @@
   },
   "name": "Collection",
   "nameIsFixed": true,
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
