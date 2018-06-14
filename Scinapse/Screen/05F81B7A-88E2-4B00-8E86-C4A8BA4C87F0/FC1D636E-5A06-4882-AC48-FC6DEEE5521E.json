@@ -16,9 +16,9 @@
     "constrainProportions": false,
     "do_objectID": "59F65985-3D07-4179-B482-F37B9F3B3059",
     "height": 40,
-    "width": 134,
+    "width": 123,
     "x": 934,
-    "y": 188
+    "y": 180
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -29,18 +29,6 @@
   "name": "Button/Medium - Left Icon",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "46B8942C-868F-489D-AD3C-78FB99DF1D60",
-      "overrideName": "362BF524-2306-42AD-B9F3-F55AA19070F8_symbolID",
-      "value": ""
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "F7652EE8-38D7-4503-ADA3-C0ACC5A95B04",
-      "overrideName": "273E7901-DE21-4C9D-8073-F4CC045806E1_symbolID",
-      "value": "447BC225-FCDA-4CFE-B47D-71FEC87BC60F"
-    },
     {
       "_class": "overrideValue",
       "do_objectID": "53C4FEC4-3CDC-4B2F-8F73-C8C7D43A57A2",
@@ -55,32 +43,56 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "A5D13B07-6E57-4000-9FE7-16492DB8F161",
-      "overrideName": "326D76C6-4BDD-4F54-9D59-64E613F75515_symbolID",
-      "value": "50DB6917-6338-49BD-8071-357C6D3D859B"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "584F2FA5-32E8-4F0A-8CF0-B7A3B139B939",
-      "overrideName": "83369FD7-1B7A-4EF2-B669-4A06D17783DA_symbolID",
-      "value": "F478201B-8695-4857-A2B6-2844EFA42A7E"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "41ABE8B6-B2AA-4D3C-BD77-8A4397E77AAF",
-      "overrideName": "273E7901-DE21-4C9D-8073-F4CC045806E1/6FEFCECA-7FF0-4206-8EE2-4CE17B999DB1_symbolID",
+      "do_objectID": "8C1E9882-EE39-4C69-96E3-5E5C77064ED7",
+      "overrideName": "3F4F566B-47CE-4BB3-A313-533F567A1B0E/7E449EE0-9AA2-44E9-9572-6826CDF5F3BF_symbolID",
       "value": "6144B231-9F54-4DE6-9302-FE46B5885E25"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "5E9346E9-D4AC-4845-8732-FD7B9BDCE060",
-      "overrideName": "83369FD7-1B7A-4EF2-B669-4A06D17783DA/3C50EEF8-AF83-4364-8197-6EC41945CA3D_stringValue",
+      "do_objectID": "47675C79-ED0B-4CED-91F5-98CA2459C8E5",
+      "overrideName": "49B80546-147A-428C-ADE6-10EE6B9AE8BF/B87C5A66-4C8A-4EBE-A272-2A4BB41972B7_symbolID",
+      "value": "4454DA0E-F988-4BD3-93F1-5FDFD6B46198"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "397DACD3-77C4-442C-98E7-249AFF2C1110",
+      "overrideName": "8193CF62-8CA5-42D1-8479-D0416C83B6A1_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "21DA0979-59F5-4DC5-B892-6FF6E8708A37",
+      "overrideName": "3F4F566B-47CE-4BB3-A313-533F567A1B0E_symbolID",
+      "value": "447BC225-FCDA-4CFE-B47D-71FEC87BC60F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8C1F6D10-0FDE-4ABC-B80A-359DA1DEABCF",
+      "overrideName": "49B80546-147A-428C-ADE6-10EE6B9AE8BF_symbolID",
+      "value": "50DB6917-6338-49BD-8071-357C6D3D859B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "13001229-B745-4A26-B252-1FD0071A6F16",
+      "overrideName": "01B3CF84-B693-4124-83E1-6FBF1F20D8FD_symbolID",
+      "value": "F478201B-8695-4857-A2B6-2844EFA42A7E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3821ECC9-4CD5-48E5-975E-DD2BB0B8F05F",
+      "overrideName": "01B3CF84-B693-4124-83E1-6FBF1F20D8FD/3C50EEF8-AF83-4364-8197-6EC41945CA3D_stringValue",
       "value": "FOLLOW"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "6212525C-FF8C-4998-9780-67A5CF9F55B6",
-      "overrideName": "326D76C6-4BDD-4F54-9D59-64E613F75515/A7EF57F1-C3BB-4BFE-8BDD-0892BC6DAC10_symbolID",
+      "do_objectID": "01985DE0-B6AA-4853-BA42-702DFCF4EDFF",
+      "overrideName": "3F4F566B-47CE-4BB3-A313-533F567A1B0E/6FEFCECA-7FF0-4206-8EE2-4CE17B999DB1_symbolID",
+      "value": "6144B231-9F54-4DE6-9302-FE46B5885E25"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "64AC6274-3AA3-4470-9A9D-71FB0EBD13FC",
+      "overrideName": "49B80546-147A-428C-ADE6-10EE6B9AE8BF/A7EF57F1-C3BB-4BFE-8BDD-0892BC6DAC10_symbolID",
       "value": "4454DA0E-F988-4BD3-93F1-5FDFD6B46198"
     }
   ],
@@ -96,6 +108,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "6D8EA9DA-1CD3-436B-8C40-F1F1B272B8B6",
+  "symbolID": "2093434F-5CD8-4E22-AF6B-7832EEC864C8",
   "verticalSpacing": 0
 }

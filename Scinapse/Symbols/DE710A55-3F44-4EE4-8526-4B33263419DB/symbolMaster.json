@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 20,
+  "changeIdentifier": 25,
   "do_objectID": "DE710A55-3F44-4EE4-8526-4B33263419DB",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -702
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,11 +46,7 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "C688CC8F-023D-4315-8E18-C90619A7A4E5"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3A36016B-773D-4799-A9CE-EF5B2ACEB5CE"
+      "id": "1E70E417-0B93-4113-9810-931531E6A891"
     }
   ],
   "name": "Icon/User",
