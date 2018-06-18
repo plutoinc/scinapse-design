@@ -1,8 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "ECD7232E-5185-47DB-B764-D8BDBA9C5857",
+  "do_objectID": "7194CAE5-A86D-4A4D-95D9-004A9C2B187A",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "B7AD13D1-6800-4357-A931-0BBA4A5E5CB0",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,21 +14,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "23EA57BA-F8C9-49EB-ABA0-A358537B41A9",
     "height": 24,
     "width": 24,
-    "x": 0,
-    "y": 0
+    "x": 181,
+    "y": 1142
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "name": "↳ 🎨Color",
-  "nameIsFixed": true,
-  "originalObjectID": "ECD7232E-5185-47DB-B764-D8BDBA9C5857",
+  "layerListExpandedType": 0,
+  "name": "Icon/Checkbox - On",
+  "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EB1FD4B6-BEDA-4ED3-B3AC-A003C8868775",
+      "overrideName": "41AAAC11-4E1D-4F0C-946A-1D5E5D356DDD_symbolID",
+      "value": ""
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -36,16 +43,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "70CDF59E-E3B8-46C0-8E80-A69D5470B8CE",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "BB9C0A66-5EA9-41AD-BE25-64604131D511",
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  },
+  "symbolID": "B3D34A2D-5302-4AAE-A16E-2D2E6903351F",
   "verticalSpacing": 0
 }
