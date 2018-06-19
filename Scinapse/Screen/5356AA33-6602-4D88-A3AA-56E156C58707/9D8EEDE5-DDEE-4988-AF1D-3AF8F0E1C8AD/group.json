@@ -1,8 +1,9 @@
 {
-  "_class": "symbolInstance",
-  "do_objectID": "926951A0-9C94-42C5-8559-E154C328DBDB",
+  "_class": "group",
+  "do_objectID": "9D8EEDE5-DDEE-4988-AF1D-3AF8F0E1C8AD",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "F55E57F5-E8F3-4CAA-A859-7CD8ED2EBBF6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,32 +14,39 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 113,
-    "x": 0,
-    "y": 0
+    "do_objectID": "DBCE0BD0-DE00-4730-9A62-A3B675822DEB",
+    "height": 72,
+    "width": 90,
+    "x": 822,
+    "y": 108
   },
-  "horizontalSpacing": 0,
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Branding/Logo",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "text",
+      "id": "EE06CDA7-8F38-40F2-AF7E-5D4E11948F34"
+    },
+    {
+      "class": "text",
+      "id": "DCF27D70-3CB5-4010-A32C-B3B2A7A49350"
+    }
   ],
+  "name": "Group",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "CEB0E993-D212-4C0B-B5F9-F8A6903CF679",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "symbolID": "5634D00C-E4C4-49AC-9A71-F0BDB2FD4224",
-  "verticalSpacing": 0
+  }
 }

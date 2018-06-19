@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Bold",
-              "size": 18
+              "size": 20
             }
           },
           "kerning": 0,
@@ -26,22 +26,22 @@
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 24,
-            "minimumLineHeight": 24
+            "maximumLineHeight": 28,
+            "minimumLineHeight": 28
           }
         },
-        "length": 10,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "Co-authors"
+    "string": "Publications"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "3284CB10-1473-44BC-A95F-375832C8B711",
+  "do_objectID": "F576FCAC-5F10-4956-9E9D-92EA522EDE21",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "2E0EEF9C-DDBE-4D36-B336-15EAC79745BA",
+    "do_objectID": "59E303C5-BD1F-4EF0-AEFD-C69E8AE2AB88",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,20 +52,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A654B78A-B808-4D82-A7F2-0B4F19243696",
-    "height": 24,
-    "width": 91,
-    "x": 934,
-    "y": 260
+    "do_objectID": "05D44109-FE48-451B-A4F8-DBD78E6A5EF4",
+    "height": 28,
+    "width": 112,
+    "x": 221,
+    "y": 258
   },
-  "glyphBounds": "{{0, 4}, {91, 15}}",
+  "glyphBounds": "{{1, 6}, {111, 16}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Co-authors",
+  "name": "Publications",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,13 +73,14 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0087D76D-0599-43FD-A4A6-014311300A19",
+    "do_objectID": "08F7AD00-091F-4861-B1A2-BBE6A7E7D684",
     "endDecorationType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "3253825F-B568-48A8-8EE0-D5C0F5607938",
+    "sharedObjectID": "E5560C27-F2AD-41E2-A1F2-011D1D1C64F2",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "EC9DE023-D9A2-4EFE-9CE0-127A7560189F",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -92,7 +93,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-Bold",
-            "size": 18
+            "size": 20
           }
         },
         "kerning": 0,
@@ -101,8 +102,8 @@
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24
+          "maximumLineHeight": 28,
+          "minimumLineHeight": 28
         }
       },
       "verticalAlignment": 0

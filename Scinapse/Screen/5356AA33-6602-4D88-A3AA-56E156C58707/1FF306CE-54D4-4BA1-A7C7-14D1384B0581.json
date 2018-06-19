@@ -1,8 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "F2141349-D915-4064-9913-F181C4B3E005",
+  "do_objectID": "1FF306CE-54D4-4BA1-A7C7-14D1384B0581",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "A79ABF3D-CF42-453E-86F0-D33BD1BFA0BC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,10 +14,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
-    "width": 44,
-    "x": 0,
-    "y": 0
+    "do_objectID": "9687BD2C-EA49-44BE-90B8-403EE7A7F3E4",
+    "height": 30,
+    "width": 136,
+    "x": 934,
+    "y": 347
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,9 +26,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Avatar/Fill - Default",
+  "name": "Chip/Basic",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "54C6CE0B-0544-4F27-9F38-2F557FAE95BA",
+      "overrideName": "9D46D091-69F2-45DE-B4A5-E3070524718B/ADCC6249-C477-417A-8FFC-CA9668F21A8C_stringValue",
+      "value": "Computer Science"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -35,10 +43,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "051FDE58-6D5D-41D4-9ED2-6A4C7F525469",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "5E9FAFB5-BDF3-490E-90CC-DF3AAD3C4682",
+  "symbolID": "05E83B77-577D-4356-BDE7-A83831D2CC63",
   "verticalSpacing": 0
 }

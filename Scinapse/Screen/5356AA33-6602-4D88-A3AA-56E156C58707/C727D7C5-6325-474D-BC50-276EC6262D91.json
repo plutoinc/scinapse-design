@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.207843137254902,
+            "green": 0.1647058823529411,
+            "red": 0.1176470588235294
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
-              "size": 48
+              "name": "Roboto-Bold",
+              "size": 20
             }
           },
           "kerning": 0,
@@ -26,21 +26,22 @@
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 64,
-            "minimumLineHeight": 64
+            "maximumLineHeight": 28,
+            "minimumLineHeight": 28
           }
         },
-        "length": 5,
+        "length": 18,
         "location": 0
       }
     ],
-    "string": "color"
+    "string": "Top Field of Study"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "7BA84629-B59F-48DC-A7EE-774C53934231",
+  "do_objectID": "C727D7C5-6325-474D-BC50-276EC6262D91",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "C71FF128-5A11-455C-ACCB-1EC7D243C673",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,46 +52,48 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 64,
-    "width": 648,
-    "x": 156,
-    "y": 162
+    "do_objectID": "E3848CA8-0FDA-4976-8CD6-380FBA3E23C5",
+    "height": 28,
+    "width": 164,
+    "x": 934,
+    "y": 258
   },
-  "glyphBounds": "{{2, 12}, {106, 37}}",
+  "glyphBounds": "{{0, 5}, {164, 21}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Title",
-  "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "name": "Top Field of Study",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "1D282B2F-EAF3-4EFA-831F-27D0A53E12C9",
+    "do_objectID": "5F5FF3C3-B67E-4004-9820-7098C50E6E80",
     "endDecorationType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "DACCEA92-28AF-4C83-8990-05D908550506",
+    "sharedObjectID": "E5560C27-F2AD-41E2-A1F2-011D1D1C64F2",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "90B44292-36C1-4200-A358-86B205EA12C2",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.207843137254902,
+          "green": 0.1647058823529411,
+          "red": 0.1176470588235294
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
-            "size": 48
+            "name": "Roboto-Bold",
+            "size": 20
           }
         },
         "kerning": 0,
@@ -99,12 +102,12 @@
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 64,
-          "minimumLineHeight": 64
+          "maximumLineHeight": 28,
+          "minimumLineHeight": 28
         }
       },
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }
