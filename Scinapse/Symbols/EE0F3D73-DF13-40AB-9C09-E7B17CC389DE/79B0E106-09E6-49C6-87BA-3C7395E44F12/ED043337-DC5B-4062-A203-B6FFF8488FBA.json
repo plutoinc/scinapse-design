@@ -53,11 +53,11 @@
     "constrainProportions": false,
     "do_objectID": "D33B5850-BACD-4D15-8866-596B231C6929",
     "height": 48,
-    "width": 793,
+    "width": 672,
     "x": 0,
     "y": 44
   },
-  "glyphBounds": "{{0, 3}, {755, 43}}",
+  "glyphBounds": "{{0, 3}, {663, 43}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -106,5 +106,22 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 1
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    },
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "article",
+        "options": {
+          "section": "cooking",
+          "type": "body"
+        },
+        "title": "Cooking"
+      }
+    }
+  }
 }

@@ -10,10 +10,16 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "05F81B7A-88E2-4B00-8E86-C4A8BA4C87F0",
+    "do_objectID": "3E558E59-F47D-448B-B94C-153797F10086"
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 143,
+    "height": 158,
     "width": 793,
     "x": 323,
     "y": 175
@@ -37,8 +43,36 @@
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.05,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
     "startDecorationType": 0
   },
   "symbolID": "257CC83D-6A23-40FC-8B1E-C58585361BCC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalSpacing": 0
 }

@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.207843137254902,
-            "green": 0.1647058823529411,
-            "red": 0.1176470588235294
+            "blue": 0.212180882692337,
+            "green": 0.1656655371189118,
+            "red": 0.1061242744326591
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -84,9 +84,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.207843137254902,
-          "green": 0.1647058823529411,
-          "red": 0.1176470588235294
+          "blue": 0.212180882692337,
+          "green": 0.1656655371189118,
+          "red": 0.1061242744326591
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -108,5 +108,12 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 1
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
 }

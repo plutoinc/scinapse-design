@@ -35,10 +35,10 @@
     "height": 900,
     "width": 1440,
     "x": -5776,
-    "y": 2488
+    "y": 2664
   },
-  "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -98,10 +98,6 @@
     {
       "class": "symbolInstance",
       "id": "F273664B-ADAC-4BCB-930B-FCF312BAB510"
-    },
-    {
-      "class": "group",
-      "id": "98142D6A-B2E9-4587-BAA4-673C8BA83455"
     },
     {
       "class": "shapeGroup",

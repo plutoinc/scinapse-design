@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 282,
+  "changeIdentifier": 295,
   "do_objectID": "F3FFE483-D66A-4661-9A3D-AF3539868F02",
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,6 +53,21 @@
       "id": "75B6C460-B488-44D8-9BAB-CDA73AED7437"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -512.5,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Input/Radio - Small",
   "nameIsFixed": true,
   "originalObjectID": "0AA65D9C-BE73-49AD-A94B-05A6CE39B514",

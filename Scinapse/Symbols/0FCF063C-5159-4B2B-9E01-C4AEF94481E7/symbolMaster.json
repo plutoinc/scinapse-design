@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 239,
+  "changeIdentifier": 252,
   "do_objectID": "0FCF063C-5159-4B2B-9E01-C4AEF94481E7",
   "exportOptions": {
     "_class": "exportOptions",
@@ -57,6 +57,21 @@
       "id": "64B4C017-7CBF-4C18-BB6A-7EABD73DE081"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -548,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Tooltip/Bottom",
   "nameIsFixed": true,
   "originalObjectID": "83C81AEF-C9D4-4CC5-A4FE-B73EBE98E82F",

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 30,
+  "changeIdentifier": 43,
   "do_objectID": "00D66648-5C47-4AC9-B3B8-A66A4AA0764E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -57,6 +57,21 @@
       "id": "023F30FA-A5B6-4104-8767-02072172E5DC"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -507.5,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Mixin/Button/Fill",
   "nameIsFixed": true,
   "originalObjectID": "00D66648-5C47-4AC9-B3B8-A66A4AA0764E",

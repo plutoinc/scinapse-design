@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 70,
+  "changeIdentifier": 83,
   "do_objectID": "2FC9CCCD-D22B-4DD7-B4D5-026B6924A104",
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,6 +53,21 @@
       "id": "F9A4B398-2AC0-425A-80A2-D233CEA7B570"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -512.5,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Mixin/State/Hover - Focused",
   "nameIsFixed": true,
   "originalObjectID": "2FC9CCCD-D22B-4DD7-B4D5-026B6924A104",

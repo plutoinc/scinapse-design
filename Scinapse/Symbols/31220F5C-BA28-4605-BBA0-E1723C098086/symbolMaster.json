@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 54,
+  "changeIdentifier": 67,
   "do_objectID": "31220F5C-BA28-4605-BBA0-E1723C098086",
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,6 +53,21 @@
       "id": "E8373087-4B7B-4A56-BBC2-5908D1F10ED9"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -500,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Mixin/Container/Field/Border",
   "nameIsFixed": true,
   "originalObjectID": "31220F5C-BA28-4605-BBA0-E1723C098086",

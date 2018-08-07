@@ -8,7 +8,7 @@
     "green": 0,
     "red": 0
   },
-  "changeIdentifier": 214,
+  "changeIdentifier": 227,
   "do_objectID": "C67CBE13-2C0F-4960-B1EB-038D94F33043",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,7 +30,7 @@
     "y": -355
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,6 +53,21 @@
       "id": "E583A2FF-8920-40B3-A749-79F1F9592947"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -555.5,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Text/Subheader 2/Normal/Accent 3 Copy",
   "nameIsFixed": true,
   "originalObjectID": "95370E17-805F-42BC-8344-E59D1C2B37C3",

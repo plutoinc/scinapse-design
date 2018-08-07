@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2783,
+  "changeIdentifier": 2836,
   "do_objectID": "62F64D22-7F15-4E34-B69F-1799A0446C1A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,7 +23,7 @@
     "constrainProportions": false,
     "height": 56,
     "width": 48,
-    "x": 2754,
+    "x": 2606,
     "y": 4490
   },
   "hasBackgroundColor": false,
@@ -49,6 +49,21 @@
       "id": "F6785B99-EC58-490D-BDC2-FADFF3BEF064"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -576,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Cell/Avatar",
   "nameIsFixed": true,
   "originalObjectID": "7C206CDF-42B4-4FB1-9292-DEFD381C71F1",

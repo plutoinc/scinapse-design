@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 250,
+  "changeIdentifier": 263,
   "do_objectID": "D60073B8-2C75-4519-95B2-407D6F88D61B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,6 +53,21 @@
       "id": "83C16F3D-4981-4340-A428-DCF22072654A"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -542,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Badge/Basic - Small",
   "nameIsFixed": true,
   "originalObjectID": "BA2EC8E1-93C1-4691-A812-825EA7B3A638",

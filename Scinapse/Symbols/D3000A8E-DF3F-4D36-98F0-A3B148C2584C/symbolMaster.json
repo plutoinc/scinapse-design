@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 41,
+  "changeIdentifier": 54,
   "do_objectID": "D3000A8E-DF3F-4D36-98F0-A3B148C2584C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,6 +49,21 @@
       "id": "B46BFC4F-9759-4C70-A22A-D53F8AC57EEE"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -550,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Mixin/Fill/Primary",
   "nameIsFixed": true,
   "originalObjectID": "D3000A8E-DF3F-4D36-98F0-A3B148C2584C",

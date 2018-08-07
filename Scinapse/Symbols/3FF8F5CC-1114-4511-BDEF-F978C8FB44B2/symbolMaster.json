@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 236,
+  "changeIdentifier": 249,
   "do_objectID": "3FF8F5CC-1114-4511-BDEF-F978C8FB44B2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -73,6 +73,21 @@
       "id": "41472F05-DA4F-4964-8033-FECC19F152B0"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -349.5,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "List/Grid - 3 Columns",
   "nameIsFixed": true,
   "originalObjectID": "3FF8F5CC-1114-4511-BDEF-F978C8FB44B2",

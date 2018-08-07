@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 466,
+  "changeIdentifier": 479,
   "do_objectID": "2B5CC48D-64A0-40C0-83DC-1B3224E23F9C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,7 +30,7 @@
     "y": -638
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -57,6 +57,21 @@
       "id": "D66725CF-D6B8-4661-88F9-84FA921F7534"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -588,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Icon/Bookmark",
   "nameIsFixed": true,
   "originalObjectID": "D2ABB5B1-E2D8-43FF-B0CF-C7725F3E1BB0",

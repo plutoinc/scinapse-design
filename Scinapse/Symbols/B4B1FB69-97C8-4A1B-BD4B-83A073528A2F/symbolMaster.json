@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 44,
+  "changeIdentifier": 57,
   "do_objectID": "B4B1FB69-97C8-4A1B-BD4B-83A073528A2F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,6 +53,21 @@
       "id": "8BDCA5A8-4429-47B9-81B8-6617EE4860B7"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -580,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Calendar/Day - Disabled",
   "nameIsFixed": true,
   "originalObjectID": "B4B1FB69-97C8-4A1B-BD4B-83A073528A2F",

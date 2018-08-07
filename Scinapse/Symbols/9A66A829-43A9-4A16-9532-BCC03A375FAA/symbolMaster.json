@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 136,
+  "changeIdentifier": 149,
   "do_objectID": "9A66A829-43A9-4A16-9532-BCC03A375FAA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -57,6 +57,21 @@
       "id": "58CA1A74-F379-4E76-9D1D-F0D24C723B78"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -534,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Badge/Right Icon",
   "nameIsFixed": true,
   "originalObjectID": "13FC242C-E658-4AE4-A7F4-DF504A631137",

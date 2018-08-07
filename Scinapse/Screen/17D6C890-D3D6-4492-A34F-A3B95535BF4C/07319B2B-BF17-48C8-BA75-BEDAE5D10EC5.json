@@ -15,10 +15,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "79ABD6E2-F8CD-4591-90DD-A074B74FC221",
-    "height": 143,
+    "height": 105,
     "width": 793,
     "x": 323,
-    "y": 477
+    "y": 523
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -40,8 +40,36 @@
     "do_objectID": "70F604DB-34E2-422E-AC38-73CFACF8BA39",
     "endDecorationType": 0,
     "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.05,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
     "startDecorationType": 0
   },
-  "symbolID": "257CC83D-6A23-40FC-8B1E-C58585361BCC",
+  "symbolID": "31897CC7-94CE-4A02-9F21-8FA667C207E1",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalSpacing": 0
 }

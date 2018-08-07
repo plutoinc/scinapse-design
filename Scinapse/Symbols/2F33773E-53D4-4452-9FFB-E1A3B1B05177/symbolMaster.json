@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 211,
+  "changeIdentifier": 224,
   "do_objectID": "2F33773E-53D4-4452-9FFB-E1A3B1B05177",
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,6 +53,21 @@
       "id": "677FB95F-5BF7-4725-85AD-B56A163E46D4"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -512.5,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Input/Switch - Right",
   "nameIsFixed": true,
   "originalObjectID": "2F33773E-53D4-4452-9FFB-E1A3B1B05177",

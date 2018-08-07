@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 18,
+  "changeIdentifier": 31,
   "do_objectID": "ADDA8D13-C2F5-4358-9B0E-1C359912CA41",
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,6 +53,21 @@
       "id": "839FB73B-08CA-4E60-B7AD-A87BDCB43112"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -588,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Icon/Delete",
   "nameIsFixed": true,
   "originalObjectID": "ADDA8D13-C2F5-4358-9B0E-1C359912CA41",

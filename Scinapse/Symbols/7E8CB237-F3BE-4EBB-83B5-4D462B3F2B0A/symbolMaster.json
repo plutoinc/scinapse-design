@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 206,
+  "changeIdentifier": 219,
   "do_objectID": "7E8CB237-F3BE-4EBB-83B5-4D462B3F2B0A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -69,6 +69,21 @@
       "id": "39CCF835-DB43-4DD8-8F9F-9099E11A4EF5"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -413,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "List/Grid - 2 Columns",
   "nameIsFixed": true,
   "originalObjectID": "7E8CB237-F3BE-4EBB-83B5-4D462B3F2B0A",

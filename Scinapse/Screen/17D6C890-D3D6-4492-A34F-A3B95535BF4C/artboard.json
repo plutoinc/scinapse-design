@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "do_objectID": "F7DFCFB3-199D-4645-AE9F-09100D3FA685",
-    "green": 1,
-    "red": 1
+    "blue": 0.9803921568627451,
+    "green": 0.9764705882352941,
+    "red": 0.9764705882352941
   },
   "do_objectID": "17D6C890-D3D6-4492-A34F-A3B95535BF4C",
   "exportOptions": {
@@ -35,7 +34,7 @@
     "height": 900,
     "width": 1442,
     "x": -8850,
-    "y": 2488
+    "y": 2664
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -85,11 +84,19 @@
     },
     {
       "class": "symbolInstance",
-      "id": "C932D4B1-8AF4-46B0-8531-7E6FAE3C2C51"
+      "id": "62805CDE-56ED-4AFE-87E2-5D1E912911F2"
     },
     {
       "class": "symbolInstance",
-      "id": "511E1A00-8B72-46AE-A366-4E793E1E8753"
+      "id": "7A81A643-6035-458F-B68B-B1D4523E55E1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F1F9EB20-5ADF-475F-BBB3-812840E23C4D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E85D6ED7-71EB-4F6E-A8A5-F1C304D2858D"
     }
   ],
   "layout": {

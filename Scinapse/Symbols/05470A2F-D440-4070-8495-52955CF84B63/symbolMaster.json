@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 27,
+  "changeIdentifier": 40,
   "do_objectID": "05470A2F-D440-4070-8495-52955CF84B63",
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,6 +49,21 @@
       "id": "40B48B40-BC6E-40A2-B7CB-4D6DB37F45E9"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -599.5,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Add-Ons/Text Cursor",
   "nameIsFixed": false,
   "originalObjectID": "05470A2F-D440-4070-8495-52955CF84B63",

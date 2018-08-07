@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 260,
+  "changeIdentifier": 273,
   "do_objectID": "C0FE4AF8-0443-489A-9454-163C9D791010",
   "exportOptions": {
     "_class": "exportOptions",
@@ -73,6 +73,21 @@
       "id": "A731D7EF-3654-48A9-9354-D3C9D9C30F7A"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -280,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "List/Grid Header - 4 Columns",
   "nameIsFixed": true,
   "originalObjectID": "C0FE4AF8-0443-489A-9454-163C9D791010",

@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 27,
+  "changeIdentifier": 40,
   "do_objectID": "DA08DF66-34DF-4CFB-B7A8-B5840EA8B7CE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,6 +53,21 @@
       "id": "F4F75B24-073B-4350-A768-2E10C0433365"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -550,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Mixin/Fill/Black - Faded",
   "nameIsFixed": true,
   "originalObjectID": "053C7D86-EE5B-47CF-BF6D-E3B6E73CD1C8",

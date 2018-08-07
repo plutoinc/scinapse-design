@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1412,
+  "changeIdentifier": 1427,
   "do_objectID": "5C2BD87F-B599-4B0B-9744-C93F45435485",
   "exportOptions": {
     "_class": "exportOptions",
@@ -59,18 +59,18 @@
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 45,
+    "columnWidth": 78,
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
     "gutterHeight": 12,
-    "gutterWidth": 15,
-    "guttersOutside": false,
-    "horizontalOffset": 79.5,
-    "isEnabled": false,
-    "numberOfColumns": 6,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -348,
+    "isEnabled": true,
+    "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
-    "totalWidth": 345
+    "totalWidth": 1200
   },
   "name": "Modal/Image + Big Title",
   "nameIsFixed": true,

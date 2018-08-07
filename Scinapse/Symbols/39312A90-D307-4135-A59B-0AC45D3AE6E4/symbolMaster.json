@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 86,
+  "changeIdentifier": 99,
   "do_objectID": "39312A90-D307-4135-A59B-0AC45D3AE6E4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,6 +53,21 @@
       "id": "B2369D1D-E5AF-4D81-AE90-965400F746D3"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -542,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Range - Single",
   "nameIsFixed": true,
   "originalObjectID": "90ED5D77-3938-4E89-BDB7-4CFEF9F85092",

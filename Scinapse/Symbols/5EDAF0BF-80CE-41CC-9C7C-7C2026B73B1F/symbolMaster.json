@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 36,
+  "changeIdentifier": 49,
   "do_objectID": "5EDAF0BF-80CE-41CC-9C7C-7C2026B73B1F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,6 +49,21 @@
       "id": "B688B203-9F28-446D-8529-1F592ADD0902"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -588,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Icon/Currency",
   "nameIsFixed": true,
   "originalObjectID": "5EDAF0BF-80CE-41CC-9C7C-7C2026B73B1F",

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 51,
+  "changeIdentifier": 64,
   "do_objectID": "DD232E3B-7530-471E-92CE-B664E032C8A6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,6 +53,21 @@
       "id": "B8B06FC6-7F60-49B1-B894-7FB56173A9E2"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -542,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Progress Bar",
   "nameIsFixed": true,
   "originalObjectID": "DD232E3B-7530-471E-92CE-B664E032C8A6",

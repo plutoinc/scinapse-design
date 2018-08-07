@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 143,
-    "width": 793,
-    "x": 0,
-    "y": 0
+    "height": 124,
+    "width": 672,
+    "x": 16,
+    "y": 16
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -34,10 +34,6 @@
       "id": "ED043337-DC5B-4062-A203-B6FFF8488FBA"
     },
     {
-      "class": "symbolInstance",
-      "id": "E2725671-2012-47DD-AAAB-83507FC5632B"
-    },
-    {
       "class": "group",
       "id": "E50C260B-FE8A-478D-B448-8BA62CD7FB93"
     }
@@ -53,5 +49,11 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }

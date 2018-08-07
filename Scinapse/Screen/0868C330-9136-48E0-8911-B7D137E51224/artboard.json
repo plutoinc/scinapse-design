@@ -32,13 +32,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0355CEB6-02F3-4C56-BA0D-2E9B926675BA",
-    "height": 1736,
+    "height": 956,
     "width": 1440,
     "x": -10382,
     "y": -277
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -56,6 +56,10 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "group",
+      "id": "58BB6192-7333-42B2-9346-686F162F4B85"
+    },
+    {
       "class": "symbolInstance",
       "id": "32FC7204-307B-4507-BDBF-E69344D32AF0"
     },
@@ -69,31 +73,15 @@
     },
     {
       "class": "text",
-      "id": "FD716B72-798D-45F2-AAB5-830EF1C27E98"
-    },
-    {
-      "class": "text",
-      "id": "B48798DE-1B51-4036-86E5-DBA8C80F7B44"
-    },
-    {
-      "class": "text",
-      "id": "9A3BF79B-BECA-49EC-BF2D-FE8F32F39825"
-    },
-    {
-      "class": "text",
       "id": "3CDAEBA1-8CC7-4BD2-B2AD-8AFE9406A552"
     },
     {
-      "class": "text",
-      "id": "033AD7E0-B442-43E7-9DBF-2E1C9EA5BDD8"
+      "class": "shapeGroup",
+      "id": "9A5EBB65-57E9-49AD-8B8F-326C1E34694B"
     },
     {
-      "class": "text",
-      "id": "3B82654F-E267-40EA-8DCE-CE1C2CC85F54"
-    },
-    {
-      "class": "text",
-      "id": "9E76BF73-E3E0-4AF9-AB23-231CA6CE4EEA"
+      "class": "shapeGroup",
+      "id": "A50F7CB6-C52F-4A23-B920-0B6040CF6D3B"
     },
     {
       "class": "symbolInstance",
@@ -102,6 +90,30 @@
     {
       "class": "group",
       "id": "63B49DA7-BFA6-4CF8-B150-9E80961BCB99"
+    },
+    {
+      "class": "group",
+      "id": "53B44F03-14B8-4647-989B-892C6B7B5B0F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0ECB2D9F-6AAE-4579-9EAC-99CA09C4F082"
+    },
+    {
+      "class": "text",
+      "id": "7BA7F090-6193-404E-9FC3-D625D391E543"
+    },
+    {
+      "class": "text",
+      "id": "1314D050-3CA6-4395-8EF4-64DDBDD317FB"
+    },
+    {
+      "class": "text",
+      "id": "ACEE0C7D-667E-4931-9273-A2B0640EF6F5"
+    },
+    {
+      "class": "text",
+      "id": "88D3DA10-05BA-4D3A-9510-DF86D6BA5860"
     }
   ],
   "layout": {
@@ -120,7 +132,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1200
   },
-  "name": "HOME Copy",
+  "name": "HOME",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

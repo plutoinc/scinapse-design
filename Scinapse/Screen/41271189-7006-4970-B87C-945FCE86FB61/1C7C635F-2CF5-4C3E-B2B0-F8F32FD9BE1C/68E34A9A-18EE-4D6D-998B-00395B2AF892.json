@@ -11,6 +11,12 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "CFA2ACB6-8491-4C41-A1C1-955BEDD47C98",
+    "do_objectID": "DE39B5CE-C4D2-437E-878A-826DA310BE86"
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -18,7 +24,7 @@
     "height": 40,
     "width": 64,
     "x": 416,
-    "y": 317
+    "y": 389
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -33,7 +39,7 @@
       "_class": "overrideValue",
       "do_objectID": "FC72A891-66F3-4C51-B51D-10B3FF19F2C6",
       "overrideName": "98766FD2-18DC-4901-96C2-7830680FBB10/9A7C1674-C099-4F6E-B7A4-F2D8C8D6BFA4_stringValue",
-      "value": "Next"
+      "value": "Done"
     },
     {
       "_class": "overrideValue",

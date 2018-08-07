@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 112,
+  "changeIdentifier": 125,
   "do_objectID": "83C81AEF-C9D4-4CC5-A4FE-B73EBE98E82F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 1286
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -57,6 +57,21 @@
       "id": "826A0FC1-7F50-4971-ACDC-266A33A3D1C4"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -548,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Tooltip/Basic",
   "nameIsFixed": true,
   "originalObjectID": "83C81AEF-C9D4-4CC5-A4FE-B73EBE98E82F",

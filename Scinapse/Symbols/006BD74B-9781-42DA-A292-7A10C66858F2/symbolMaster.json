@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 126,
+  "changeIdentifier": 139,
   "do_objectID": "006BD74B-9781-42DA-A292-7A10C66858F2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,6 +53,21 @@
       "id": "A953315D-FE1E-4490-BB38-D3219F2E1E53"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -588,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Icon/Upload",
   "nameIsFixed": true,
   "originalObjectID": "69220C26-DF2D-4A3D-BBAC-7BD69EB53064",

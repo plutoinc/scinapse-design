@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 79,
+  "changeIdentifier": 92,
   "do_objectID": "90ED5D77-3938-4E89-BDB7-4CFEF9F85092",
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,6 +53,21 @@
       "id": "8058DF8F-E6DF-4DA3-AB95-04B50E0F5E00"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -542,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Range Slider",
   "nameIsFixed": true,
   "originalObjectID": "90ED5D77-3938-4E89-BDB7-4CFEF9F85092",

@@ -35,7 +35,7 @@
     "height": 900,
     "width": 1442,
     "x": -7310,
-    "y": 3955
+    "y": 3694
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -77,11 +77,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "79564EAB-5C80-4303-9B43-C7381C0BD799"
+      "id": "9F466854-3BE6-4ECD-855A-175558BCB3B4"
     },
     {
       "class": "symbolInstance",
-      "id": "90CD8E87-624B-43E4-B373-7ACC33F30EDE"
+      "id": "48A909BB-16ED-46D2-867F-7A24E0738D15"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4CB9ADB7-1AB6-4402-8ED2-A492A650C309"
     },
     {
       "class": "symbolInstance",
@@ -108,6 +112,14 @@
       "id": "808BAE2F-55F0-464A-8B75-0FCA49DFC2A4"
     },
     {
+      "class": "symbolInstance",
+      "id": "EFE64E34-5052-40B6-B154-D710557E9872"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5937F5D3-B2DC-4632-976D-2F84819EA121"
+    },
+    {
       "class": "text",
       "id": "7EA07EEF-A869-47DB-A433-735B08FAE994"
     },
@@ -126,10 +138,6 @@
     {
       "class": "shapeGroup",
       "id": "337CF0A8-17BB-4C83-92AA-229BD96622D0"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C4F60E85-5F89-4CBE-8A30-80CEE3E76E2C"
     },
     {
       "class": "symbolInstance",
@@ -175,7 +183,7 @@
     "gutterWidth": 22,
     "guttersOutside": false,
     "horizontalOffset": 120,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1200

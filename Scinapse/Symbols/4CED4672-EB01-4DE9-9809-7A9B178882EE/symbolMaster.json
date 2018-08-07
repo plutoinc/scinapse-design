@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 465,
+  "changeIdentifier": 478,
   "do_objectID": "4CED4672-EB01-4DE9-9809-7A9B178882EE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -57,6 +57,21 @@
       "id": "4DB9290D-A3B1-45A7-B795-90A99728CF45"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -578,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Avatar/Fill - Default",
   "nameIsFixed": true,
   "resizesContent": true,

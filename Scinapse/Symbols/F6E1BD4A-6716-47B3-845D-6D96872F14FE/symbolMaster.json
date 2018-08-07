@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 15,
+  "changeIdentifier": 28,
   "do_objectID": "F6E1BD4A-6716-47B3-845D-6D96872F14FE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,6 +53,21 @@
       "id": "1FDC6C60-9F71-47FE-AAB6-C90A65297410"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -588,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Icon/Preferences",
   "nameIsFixed": true,
   "originalObjectID": "F6E1BD4A-6716-47B3-845D-6D96872F14FE",

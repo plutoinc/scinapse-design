@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 545,
+  "changeIdentifier": 558,
   "do_objectID": "7735F9DB-64A4-41EA-9B30-0FC239AC8CF1",
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,6 +53,21 @@
       "id": "5EA6196B-537B-4ABE-8179-B1162E8CED10"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -588,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Icon/Search",
   "nameIsFixed": true,
   "originalObjectID": "7735F9DB-64A4-41EA-9B30-0FC239AC8CF1",

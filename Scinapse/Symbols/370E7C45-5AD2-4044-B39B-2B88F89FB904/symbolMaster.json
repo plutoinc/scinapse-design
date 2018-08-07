@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 224,
+  "changeIdentifier": 536,
   "do_objectID": "370E7C45-5AD2-4044-B39B-2B88F89FB904",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 133,
     "width": 386,
-    "x": 4426,
-    "y": 746
+    "x": 4737,
+    "y": 1777
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -49,8 +49,23 @@
       "id": "7DFC3DE3-9FF2-4F34-B1FB-B0049EE6327B"
     }
   ],
-  "name": "Card/Colleciton",
-  "nameIsFixed": false,
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -407,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "Colleciton/Card",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -63,6 +78,12 @@
     "startDecorationType": 0
   },
   "symbolID": "D43270BC-1EAB-4DEC-AC3F-8AADDDD81347",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

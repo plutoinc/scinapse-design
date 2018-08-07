@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 40,
+  "changeIdentifier": 53,
   "do_objectID": "ED83A6A7-F46D-4D4F-97D3-3B867C474A56",
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,6 +49,21 @@
       "id": "A6B389DB-53BC-4FBF-B599-73C153DB7B3C"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -550,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Mixin/Fill/Accent 3",
   "nameIsFixed": true,
   "originalObjectID": "ED83A6A7-F46D-4D4F-97D3-3B867C474A56",

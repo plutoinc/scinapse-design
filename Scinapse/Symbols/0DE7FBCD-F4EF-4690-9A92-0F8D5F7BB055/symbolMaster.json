@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1236,
+  "changeIdentifier": 1256,
   "do_objectID": "0DE7FBCD-F4EF-4690-9A92-0F8D5F7BB055",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -55,18 +55,18 @@
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 45,
+    "columnWidth": 78,
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
     "gutterHeight": 12,
-    "gutterWidth": 15,
-    "guttersOutside": false,
-    "horizontalOffset": 79.5,
-    "isEnabled": false,
-    "numberOfColumns": 6,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -348,
+    "isEnabled": true,
+    "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
-    "totalWidth": 345
+    "totalWidth": 1200
   },
   "name": "Modal/Basic",
   "nameIsFixed": true,

@@ -5,6 +5,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -15,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 40,
-    "width": 142.7027027027027,
-    "x": 236,
-    "y": 97
+    "height": 32,
+    "width": 114,
+    "x": 330,
+    "y": 101
   },
   "image": {
     "_class": "MSJSONFileReference",
@@ -39,6 +48,14 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8,
+      "type": 0
+    },
     "colorControls": {
       "_class": "colorControls",
       "brightness": 0,

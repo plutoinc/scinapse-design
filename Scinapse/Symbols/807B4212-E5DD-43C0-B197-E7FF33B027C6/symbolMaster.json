@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 197,
+  "changeIdentifier": 468,
   "do_objectID": "807B4212-E5DD-43C0-B197-E7FF33B027C6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 75,
     "width": 456,
-    "x": 4426,
-    "y": 318
+    "x": 4737,
+    "y": 1976
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -49,6 +49,21 @@
       "id": "E31DF23C-5239-4D83-973C-47896374E569"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -372,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Collection/Add/Option Card",
   "nameIsFixed": false,
   "resizesContent": false,
@@ -63,6 +78,12 @@
     "startDecorationType": 0
   },
   "symbolID": "4A53FF4C-4CF3-45B5-B566-A717EB824A1E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -29,6 +29,18 @@
   "name": "Paper/Collection",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BA45EE8D-6C9E-4CDA-A88B-2EB53429F29C",
+      "overrideName": "6DD014A9-7C5D-4E67-8D78-EBD8E3C2241A_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7E59ADE0-C0B3-4BF5-ABF5-6107B71F8900",
+      "overrideName": "2B32E384-D259-48DB-BDF8-430B6582BE0C_symbolID",
+      "value": ""
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -43,5 +55,11 @@
     "startDecorationType": 0
   },
   "symbolID": "252EBAF9-5455-45AB-BDD5-4ED30ACCFB66",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalSpacing": 0
 }

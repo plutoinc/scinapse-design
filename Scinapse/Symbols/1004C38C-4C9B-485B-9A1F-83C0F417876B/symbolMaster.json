@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 91,
+  "changeIdentifier": 335,
   "do_objectID": "1004C38C-4C9B-485B-9A1F-83C0F417876B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,8 +26,8 @@
     "do_objectID": "49271476-D852-4203-BA15-7788160E0EA5",
     "height": 60,
     "width": 1440,
-    "x": 5553,
-    "y": -767
+    "x": 4737,
+    "y": -782
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -50,24 +50,23 @@
   "layers": [
     {
       "class": "group",
-      "id": "3CC71E08-F07D-45E1-91C0-6060FF17DF21"
+      "id": "3B7F796C-C9E8-4B15-A465-C7E93C92EEDC"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 60,
-    "do_objectID": "CCBC2DA8-0E0F-4417-B285-DB865408411B",
+    "columnWidth": 78,
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
     "gutterHeight": 12,
-    "gutterWidth": 20,
+    "gutterWidth": 22,
     "guttersOutside": true,
-    "horizontalOffset": 240,
-    "isEnabled": false,
+    "horizontalOffset": 120,
+    "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
-    "totalWidth": 960
+    "totalWidth": 1200
   },
   "name": "Nav/Home",
   "nameIsFixed": true,
@@ -84,6 +83,12 @@
     "startDecorationType": 0
   },
   "symbolID": "39B3DC10-F4E2-47E3-B652-1F927F348C2D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

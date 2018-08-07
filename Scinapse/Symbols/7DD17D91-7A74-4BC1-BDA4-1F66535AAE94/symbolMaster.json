@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1463,
+  "changeIdentifier": 1499,
   "do_objectID": "7DD17D91-7A74-4BC1-BDA4-1F66535AAE94",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,7 +23,7 @@
     "constrainProportions": false,
     "height": 56,
     "width": 132,
-    "x": 2534,
+    "x": 2386,
     "y": 4490
   },
   "hasBackgroundColor": false,
@@ -49,6 +49,21 @@
       "id": "C7D1A6B1-154C-4046-A1C0-A2562C576062"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -534,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Cell/Button",
   "nameIsFixed": true,
   "originalObjectID": "7C206CDF-42B4-4FB1-9292-DEFD381C71F1",

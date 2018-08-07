@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 59,
+  "changeIdentifier": 72,
   "do_objectID": "730C9070-5DDE-4077-B689-452BF26FBBF1",
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,6 +53,21 @@
       "id": "B8732FBD-9C2E-4C92-B975-33A053F15790"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -512.5,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Mixin/State/Pressed Focused",
   "nameIsFixed": true,
   "originalObjectID": "730C9070-5DDE-4077-B689-452BF26FBBF1",

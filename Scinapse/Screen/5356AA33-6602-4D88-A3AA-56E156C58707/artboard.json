@@ -34,11 +34,11 @@
     "do_objectID": "63679380-F608-4BAB-8694-983564A81511",
     "height": 900,
     "width": 1442,
-    "x": -2714,
-    "y": -277
+    "x": -8850,
+    "y": -1306
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -56,40 +56,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "44A7950B-CE25-4D9B-AE42-EF0BF5368C57"
-    },
-    {
       "class": "symbolInstance",
       "id": "2FC9F9F7-448B-4342-8A75-9CA605F1E58A"
-    },
-    {
-      "class": "text",
-      "id": "5A26942D-19FE-4DB0-8D77-C43388DFBD5E"
-    },
-    {
-      "class": "text",
-      "id": "D144BF8E-8140-4CCE-B9C7-E3E0E501ADFB"
-    },
-    {
-      "class": "text",
-      "id": "EF2F82CB-D1D7-4C29-9D68-FDC88D32CBE7"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "02F9B8D9-763E-4E6D-8A72-35B88EDB38E9"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "8C5ADA31-B5AC-43DD-8D86-C27BA04E47CA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0EFBA2AE-5BD3-43B4-81F9-FB34BC6C4B05"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "544CFB96-0935-4B45-86E8-62A67DFE2F1C"
     },
     {
       "class": "symbolInstance",
@@ -97,35 +65,11 @@
     },
     {
       "class": "text",
-      "id": "C4BE427B-D988-4D62-9746-A5252A378275"
-    },
-    {
-      "class": "group",
-      "id": "A8AE068F-2527-4F74-830D-CA76C4E70265"
-    },
-    {
-      "class": "group",
-      "id": "9D8EEDE5-DDEE-4988-AF1D-3AF8F0E1C8AD"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A50AEFB1-D60B-42BD-BBA2-0DCD57572BBA"
+      "id": "A1162233-01FF-431D-860D-43C60BDC845D"
     },
     {
       "class": "text",
-      "id": "C727D7C5-6325-474D-BC50-276EC6262D91"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CD16EF76-4CC3-4F3A-AEC8-1AF1081AF545"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5DED7159-EDC7-4EA5-A178-E94E6F80F4D4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1FF306CE-54D4-4BA1-A7C7-14D1384B0581"
+      "id": "396C90F2-8BC5-4E92-B28B-1D6399114A84"
     }
   ],
   "layout": {
@@ -144,7 +88,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1200
   },
-  "name": "Journal",
+  "name": "No result",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -16,8 +16,8 @@
     "constrainProportions": false,
     "do_objectID": "6DB3E392-A45C-4950-818C-A27AF89E93AA",
     "height": 36,
-    "width": 275,
-    "x": 120,
+    "width": 243,
+    "x": 147,
     "y": 12
   },
   "hasClickThrough": false,
@@ -64,7 +64,7 @@
             "multiplier": 0
           },
           "left": {
-            "constant": 204,
+            "constant": 147,
             "enabled": 1,
             "modelID": "constraint_6cca62f0-c1a1-4626-9237-1964778369dc",
             "model_class": "ADModelConstraint",
@@ -79,8 +79,7 @@
         "isCollapsing": 1,
         "spacing": 24,
         "type": 1
-      },
-      "kViewTypeKey": "ADModelStackView"
+      }
     }
   }
 }

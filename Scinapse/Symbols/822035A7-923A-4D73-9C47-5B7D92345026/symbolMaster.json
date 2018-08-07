@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 12,
+  "changeIdentifier": 2882,
   "do_objectID": "822035A7-923A-4D73-9C47-5B7D92345026",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 60,
     "width": 1440,
-    "x": 5553,
-    "y": -882
+    "x": 4737,
+    "y": -897
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -51,18 +51,18 @@
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 60,
+    "columnWidth": 78,
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
     "gutterHeight": 12,
-    "gutterWidth": 20,
+    "gutterWidth": 22,
     "guttersOutside": true,
-    "horizontalOffset": 240,
-    "isEnabled": false,
+    "horizontalOffset": 120,
+    "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
-    "totalWidth": 960
+    "totalWidth": 1200
   },
   "name": "Nav/Signin",
   "nameIsFixed": false,
@@ -78,6 +78,12 @@
     "startDecorationType": 0
   },
   "symbolID": "44D31BCE-9E29-4729-85DF-8FF1339C1F5B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

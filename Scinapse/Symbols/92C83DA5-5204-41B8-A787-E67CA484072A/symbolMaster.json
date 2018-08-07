@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 440,
+  "changeIdentifier": 453,
   "do_objectID": "92C83DA5-5204-41B8-A787-E67CA484072A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,6 +49,21 @@
       "id": "AABE28BC-D03B-47AC-BA1B-29D70C0B2485"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -588,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Icon/Card - Bitcoin",
   "nameIsFixed": true,
   "originalObjectID": "7716E586-C379-4DA2-9C63-49A27A0AFCBE",

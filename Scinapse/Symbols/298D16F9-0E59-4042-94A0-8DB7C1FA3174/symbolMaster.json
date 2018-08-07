@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1538,
+  "changeIdentifier": 1591,
   "do_objectID": "298D16F9-0E59-4042-94A0-8DB7C1FA3174",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,7 +23,7 @@
     "constrainProportions": false,
     "height": 56,
     "width": 56,
-    "x": 2682,
+    "x": 2534,
     "y": 4490
   },
   "hasBackgroundColor": false,
@@ -49,6 +49,21 @@
       "id": "8CA63669-81ED-4EB3-976F-CBBFC9BD7A54"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -572,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Cell/Switch",
   "nameIsFixed": true,
   "originalObjectID": "7C206CDF-42B4-4FB1-9292-DEFD381C71F1",

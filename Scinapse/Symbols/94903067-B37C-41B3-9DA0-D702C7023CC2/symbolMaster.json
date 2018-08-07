@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 580,
+  "changeIdentifier": 646,
   "do_objectID": "94903067-B37C-41B3-9DA0-D702C7023CC2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +23,11 @@
     "constrainProportions": false,
     "height": 176,
     "width": 692,
-    "x": 4426,
-    "y": -207
+    "x": 4737,
+    "y": 249
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -49,8 +49,23 @@
       "id": "2A653C49-7CD3-4627-906C-FC8B89B62ED0"
     }
   ],
-  "name": "Paper/Collection",
-  "nameIsFixed": false,
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -254,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "Paper/Concise",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -63,6 +78,12 @@
     "startDecorationType": 0
   },
   "symbolID": "252EBAF9-5455-45AB-BDD5-4ED30ACCFB66",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

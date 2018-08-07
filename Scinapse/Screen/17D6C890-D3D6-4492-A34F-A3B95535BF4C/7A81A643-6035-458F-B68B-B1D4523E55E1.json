@@ -1,0 +1,92 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7A81A643-6035-458F-B68B-B1D4523E55E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1DA02DEB-63B4-4B78-B7ED-203A4B391BD9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2E725517-83DB-4FE7-9B32-A6D514CE5971",
+    "height": 32,
+    "width": 32,
+    "x": 1028,
+    "y": 191
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Icon",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B5722BBF-A237-4048-B1EC-BF737C16D081",
+      "overrideName": "4295708A-4DB1-42F7-B999-4DF33AC2DCF9_symbolID",
+      "value": "F8E8DDB7-EA63-4D38-9D4E-CB4F52741801"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "75B17F74-3DAF-4600-BA5D-4BA80ABC5D42",
+      "overrideName": "B64F6753-9818-491B-87B5-4B58C395D53D_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "79860B0E-C282-4EBC-9FBA-145D44847245",
+      "overrideName": "58C63BCC-DA34-4F9B-BEB4-61A936C7AF9A/7E449EE0-9AA2-44E9-9572-6826CDF5F3BF_symbolID",
+      "value": "163EBC29-D74C-4E95-9427-59CDF026D242"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B42D38CE-6E7E-4DBC-B49C-2F31630055B7",
+      "overrideName": "4295708A-4DB1-42F7-B999-4DF33AC2DCF9/C239E3D8-0F22-49E1-91A4-A69A5B8977B3_symbolID",
+      "value": "BB9C0A66-5EA9-41AD-BE25-64604131D511"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "862769CD-93CE-4ABB-875F-13716AF6C333",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "75A4622D-CAB9-4407-B955-648F7A0EBFCB",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 32,
+            "enabled": 1,
+            "modelID": "constraint_a41d3042-89ec-4f14-93d1-edb9dad7a810",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 32
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_b7adc089-169c-4ab3-b5e5-82dc79a22ea5",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

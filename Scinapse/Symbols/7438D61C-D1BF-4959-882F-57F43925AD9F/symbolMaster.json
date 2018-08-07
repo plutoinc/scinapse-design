@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 69,
+  "changeIdentifier": 83,
   "do_objectID": "7438D61C-D1BF-4959-882F-57F43925AD9F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -57,6 +57,21 @@
       "id": "B64F6753-9818-491B-87B5-4B58C395D53D"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -582,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Button/Icon",
   "nameIsFixed": true,
   "originalObjectID": "7438D61C-D1BF-4959-882F-57F43925AD9F",

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 245,
+  "changeIdentifier": 258,
   "do_objectID": "2035AB8E-2B1C-4B17-9424-CF66DCFA6FC0",
   "exportOptions": {
     "_class": "exportOptions",
@@ -65,6 +65,21 @@
       "id": "DFEC5980-DC74-4A7A-84FD-8F9B409B4D9F"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -508.5,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Notification",
   "nameIsFixed": true,
   "originalObjectID": "2035AB8E-2B1C-4B17-9424-CF66DCFA6FC0",

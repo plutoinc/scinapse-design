@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 288,
+  "changeIdentifier": 301,
   "do_objectID": "3182B40A-5401-4DE8-A653-BC6860B24608",
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,6 +49,21 @@
       "id": "4865D083-5E2B-4D72-B866-4922CBEF7B83"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -588,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Icon/Card - Apple Pay",
   "nameIsFixed": true,
   "originalObjectID": "7716E586-C379-4DA2-9C63-49A27A0AFCBE",

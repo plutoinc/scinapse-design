@@ -32,10 +32,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B5791A5A-9A4F-430A-AC6A-1FE485FAFEAA",
-    "height": 1915,
+    "height": 900,
     "width": 1440,
     "x": -10382,
-    "y": 2488
+    "y": 2664
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -210,6 +210,14 @@
     {
       "class": "symbolInstance",
       "id": "353FB058-9D35-4188-A906-324649B0FA6F"
+    },
+    {
+      "class": "group",
+      "id": "66BED6F6-DE2A-4046-B896-06DE6A6B1398"
+    },
+    {
+      "class": "text",
+      "id": "652ADA49-5563-407A-8800-CACE352C0895"
     }
   ],
   "layout": {

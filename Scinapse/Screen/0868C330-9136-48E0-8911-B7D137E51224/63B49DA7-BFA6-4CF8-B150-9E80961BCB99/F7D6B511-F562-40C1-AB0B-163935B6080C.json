@@ -5,6 +5,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -15,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 40,
-    "width": 211.2820512820513,
-    "x": 481,
-    "y": 97
+    "height": 32,
+    "width": 169,
+    "x": 526,
+    "y": 101
   },
   "image": {
     "_class": "MSJSONFileReference",
@@ -31,14 +40,22 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Bitmap",
-  "nameIsFixed": false,
+  "name": "Semantic Scholar",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8,
+      "type": 0
+    },
     "colorControls": {
       "_class": "colorControls",
       "brightness": 0,

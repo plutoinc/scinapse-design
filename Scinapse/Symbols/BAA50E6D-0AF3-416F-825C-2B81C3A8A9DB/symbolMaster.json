@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 8348,
+  "changeIdentifier": 8361,
   "do_objectID": "BAA50E6D-0AF3-416F-825C-2B81C3A8A9DB",
   "exportOptions": {
     "_class": "exportOptions",
@@ -57,6 +57,21 @@
       "id": "0A785589-221D-4F50-B99B-0339140F47BC"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 22,
+    "guttersOutside": true,
+    "horizontalOffset": -588,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
   "name": "Icon/Memo",
   "nameIsFixed": true,
   "originalObjectID": "D2ABB5B1-E2D8-43FF-B0CF-C7725F3E1BB0",

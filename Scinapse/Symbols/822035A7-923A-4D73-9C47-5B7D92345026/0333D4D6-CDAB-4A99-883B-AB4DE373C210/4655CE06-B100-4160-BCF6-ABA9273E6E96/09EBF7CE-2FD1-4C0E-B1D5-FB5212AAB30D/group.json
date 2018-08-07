@@ -17,7 +17,7 @@
     "do_objectID": "F65A2FDA-9817-4DB8-9647-2AF0308832A0",
     "height": 44,
     "width": 44,
-    "x": 1276,
+    "x": 1265,
     "y": 8
   },
   "hasClickThrough": false,
@@ -27,10 +27,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "37098ED1-E055-484D-9C16-584826E438C7"
-    },
     {
       "class": "symbolInstance",
       "id": "62C6C446-534D-48AA-8E23-0A0DFD517B1B"
@@ -67,7 +63,7 @@
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,
           "right": {
-            "constant": 204,
+            "constant": 131,
             "enabled": 1,
             "modelID": "constraint_28420cc4-65a9-4b9b-948e-ede544fb8d56",
             "model_class": "ADModelConstraint",
@@ -79,8 +75,7 @@
         "isCollapsing": 1,
         "spacing": 16,
         "type": 1
-      },
-      "kViewTypeKey": "ADModelStackView"
+      }
     }
   }
 }

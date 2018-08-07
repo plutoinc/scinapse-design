@@ -54,7 +54,7 @@
     "constrainProportions": false,
     "do_objectID": "268FB381-8999-498D-82B7-00B9005502DF",
     "height": 36,
-    "width": 793,
+    "width": 672,
     "x": 0,
     "y": 0
   },
@@ -108,5 +108,22 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 1
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    },
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "article",
+        "options": {
+          "section": "beauty",
+          "type": "title"
+        },
+        "title": "Beauty"
+      }
+    }
+  }
 }
