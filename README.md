@@ -17,7 +17,7 @@ After install Kactus,
 - Click url tap
 - Enter this repository url 
 ```
-https://github.com/pluto-net/scinase-design
+https://github.com/pluto-net/scinapse-design
 ```
 - Choose local path
 - Clone!!
