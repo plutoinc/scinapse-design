@@ -24,3 +24,5 @@ https://github.com/pluto-net/scinapse-design
 
 ### 3. Regenerate Sketch
 Click [Regenerate Sketch File] Button. Then, Kactus generate sketch file from JSON format.
+
+### 4. Work Flow
