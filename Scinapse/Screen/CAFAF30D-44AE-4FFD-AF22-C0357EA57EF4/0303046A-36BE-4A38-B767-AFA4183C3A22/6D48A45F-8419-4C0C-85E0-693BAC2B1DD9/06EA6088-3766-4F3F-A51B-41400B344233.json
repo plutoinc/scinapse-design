@@ -66,6 +66,8 @@
     "string": "2013 in Tangible and Embedded Interaction [IF: 24.1]"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "06EA6088-3766-4F3F-A51B-41400B344233",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -88,6 +90,8 @@
     "y": 58.69767441860465
   },
   "glyphBounds": "{{0, 3}, {326, 15}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -99,14 +103,14 @@
   "resizingConstraint": 43,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "16FFB9ED-1888-4217-837B-650E3278999E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "306DB36E-75F5-4A35-AB38-7582FEAB91F5",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "16FFB9ED-1888-4217-837B-650E3278999E",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "F684E0A2-BAA0-4040-B442-A4911E04F1D0",
@@ -135,7 +139,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

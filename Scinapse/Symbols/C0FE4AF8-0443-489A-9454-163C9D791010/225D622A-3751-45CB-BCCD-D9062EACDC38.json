@@ -37,6 +37,8 @@
     "string": "Header Three"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "225D622A-3751-45CB-BCCD-D9062EACDC38",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +59,8 @@
     "y": 16
   },
   "glyphBounds": "{{0, 4}, {86, 12}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -69,14 +73,14 @@
   "resizingConstraint": 45,
   "resizingType": 3,
   "rotation": 0,
+  "sharedStyleID": "8CA8E2CE-8BBB-4DE3-B7F4-2DBAF000B48E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "B1C13C36-9D84-4D26-8657-0CF694D0DA9A",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "8CA8E2CE-8BBB-4DE3-B7F4-2DBAF000B48E",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -105,7 +109,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

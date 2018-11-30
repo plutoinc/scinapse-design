@@ -37,6 +37,8 @@
     "string": "Body"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "7221FC16-7EB0-438F-AC19-F6996252DB21",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +59,8 @@
     "y": 348
   },
   "glyphBounds": "{{1, 4}, {31, 14}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,9 +72,43 @@
   "resizingConstraint": 47,
   "resizingType": 3,
   "rotation": 0,
+  "sharedStyleID": "1DA861E2-10A0-4E85-B2DA-20C36E2C18F5",
   "shouldBreakMaskChain": false,
   "style": {
-    "sharedObjectID": "1DA861E2-10A0-4E85-B2DA-20C36E2C18F5"
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.207843137254902,
+          "green": 0.1647058823529411,
+          "red": 0.1176470588235294
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Regular",
+            "size": 14
+          }
+        },
+        "kerning": 0,
+        "ligature": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

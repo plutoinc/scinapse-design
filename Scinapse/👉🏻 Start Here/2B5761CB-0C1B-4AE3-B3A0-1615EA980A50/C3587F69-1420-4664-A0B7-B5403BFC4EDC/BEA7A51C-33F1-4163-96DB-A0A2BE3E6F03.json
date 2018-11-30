@@ -36,6 +36,8 @@
     "string": "Underneath the blocks of color are several stacked boxes, each with a unique Layer Style of that color.\n\nIt’s important to click and drag to highlight the color you want to update, then change the fill, border, and inner shadow to the same color. Don’t forget to sync!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "BEA7A51C-33F1-4163-96DB-A0A2BE3E6F03",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +58,8 @@
     "y": 79
   },
   "glyphBounds": "{{0, 5}, {511, 161}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -67,14 +71,14 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "7C80002D-6C7B-4A3C-BE55-60AD4C877FC9",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "5FF3B1AA-87F4-4733-BA79-4CFDED162753",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "7C80002D-6C7B-4A3C-BE55-60AD4C877FC9",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -102,7 +106,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

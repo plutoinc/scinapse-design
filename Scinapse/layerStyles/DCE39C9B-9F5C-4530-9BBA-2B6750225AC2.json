@@ -4,7 +4,7 @@
   "name": "Palette/UI/Fill/Grayscale 6",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -24,7 +24,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "DCE39C9B-9F5C-4530-9BBA-2B6750225AC2",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

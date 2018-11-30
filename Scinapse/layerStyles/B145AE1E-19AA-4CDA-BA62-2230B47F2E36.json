@@ -4,7 +4,7 @@
   "name": "Palette/UI/Fill/Twitter",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -24,7 +24,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "B145AE1E-19AA-4CDA-BA62-2230B47F2E36",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

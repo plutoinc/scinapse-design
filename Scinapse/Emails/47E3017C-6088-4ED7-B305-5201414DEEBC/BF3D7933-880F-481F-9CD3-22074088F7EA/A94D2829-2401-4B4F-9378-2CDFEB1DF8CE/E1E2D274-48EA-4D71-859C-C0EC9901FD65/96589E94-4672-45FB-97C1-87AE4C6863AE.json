@@ -37,6 +37,8 @@
     "string": "We’ve noticed some strange activity on your account.\nDid you recently access your account in or around the following location?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "96589E94-4672-45FB-97C1-87AE4C6863AE",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +59,8 @@
     "y": 116
   },
   "glyphBounds": "{{34, 4}, {452, 34}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,14 +72,14 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "1DA861E2-10A0-4E85-B2DA-20C36E2C18F5",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "24AF93FC-88B6-40F2-B302-FA7B8C999E5F",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "1DA861E2-10A0-4E85-B2DA-20C36E2C18F5",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -104,7 +108,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

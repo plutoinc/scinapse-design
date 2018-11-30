@@ -97,6 +97,8 @@
     "string": "13 papers"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "1D1608D0-21CE-47EC-AB06-5A44208039F2",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -119,6 +121,8 @@
     "y": 0
   },
   "glyphBounds": "{{1, 4}, {62, 14}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -130,14 +134,14 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "8CA8E2CE-8BBB-4DE3-B7F4-2DBAF000B48E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "56F03B69-B067-42A8-B268-4182BF72F8B2",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "8CA8E2CE-8BBB-4DE3-B7F4-2DBAF000B48E",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "A789AC88-08A1-45BE-8BBE-57507DB4082B",
@@ -167,7 +171,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

@@ -37,6 +37,8 @@
     "string": "Sorry :("
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "A1162233-01FF-431D-860D-43C60BDC845D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -59,6 +61,8 @@
     "y": 149
   },
   "glyphBounds": "{{0, 3}, {57, 20}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -70,14 +74,14 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "58CE3034-2EA3-4286-BCA6-6C8F0BEC0E8D",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "14064485-121D-4DAF-9111-3DA1C627BA48",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "58CE3034-2EA3-4286-BCA6-6C8F0BEC0E8D",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -106,7 +110,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

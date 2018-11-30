@@ -66,6 +66,8 @@
     "string": "2013 in Tangible and Embedded Interaction [IF: 24.1]"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "A7C40B15-E7FC-46A6-BA0F-50E1B321A2A6",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -88,6 +90,8 @@
     "y": 58.69767441860465
   },
   "glyphBounds": "{{0, 3}, {326, 15}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -99,14 +103,14 @@
   "resizingConstraint": 43,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "16FFB9ED-1888-4217-837B-650E3278999E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "4517BA11-A508-475D-973C-E76E4F282B8F",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "16FFB9ED-1888-4217-837B-650E3278999E",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "BDF326B9-BD21-4930-9D2D-16760536D115",
@@ -135,7 +139,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

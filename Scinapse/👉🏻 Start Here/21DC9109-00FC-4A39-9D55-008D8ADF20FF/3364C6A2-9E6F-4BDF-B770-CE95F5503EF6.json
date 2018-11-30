@@ -37,6 +37,8 @@
     "string": "Jumbo 2"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "3364C6A2-9E6F-4BDF-B770-CE95F5503EF6",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +59,8 @@
     "y": 663
   },
   "glyphBounds": "{{0, 12}, {188, 37}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,14 +72,14 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "1E34D529-72CA-4883-AD5E-FE5244F4790F",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "724324E6-C75B-4A17-9CFD-9571E745BDBE",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "1E34D529-72CA-4883-AD5E-FE5244F4790F",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -104,7 +108,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

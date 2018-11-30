@@ -36,6 +36,8 @@
     "string": "© 2018 Pluto Netowrk  •  Read the Blog  •  123 Main St, Populartown, USA 90182\nTired of receiving these emails? Click here to unsubscribe."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "4C8F0C05-6370-40AE-88D1-F2463483F60C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +58,8 @@
     "y": 0
   },
   "glyphBounds": "{{83, 3}, {354, 27}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -67,6 +71,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "114AC332-A938-4DCE-A81C-3F07BDFC0ED6",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -76,10 +81,9 @@
       "opacity": 0.25
     },
     "do_objectID": "FF9B11BC-B746-4CE5-8DF8-ACCE058FAF9B",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "114AC332-A938-4DCE-A81C-3F07BDFC0ED6",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -107,7 +111,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

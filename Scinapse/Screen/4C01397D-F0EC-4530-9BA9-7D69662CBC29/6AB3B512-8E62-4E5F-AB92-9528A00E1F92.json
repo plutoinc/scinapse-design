@@ -37,6 +37,8 @@
     "string": "Add paper through click   + Add Collection   Button"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "6AB3B512-8E62-4E5F-AB92-9528A00E1F92",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +59,8 @@
     "y": 3
   },
   "glyphBounds": "{{0, 4}, {400, 18}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,14 +72,14 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "4147D584-37A3-4776-9267-7F58E0D44414",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "8F301C15-8D31-46BA-918C-8F121FD1AAAC",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "4147D584-37A3-4776-9267-7F58E0D44414",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -104,7 +108,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

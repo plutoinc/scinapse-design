@@ -36,6 +36,8 @@
     "string": "When a piece of tracing paper is placed gently on the surface of a bath of water, it rapidly curls up from one edge and rolls up due to the swelling of the side in contact with water. With time, as the swelling front propagates through the thickness of the paper, the paper gradually uncurls itself and eventually straightens out. We analyze the experimental dynamics of …"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "6CA21F59-5501-470A-9ED5-610FDE7CC32C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -58,6 +60,8 @@
     "y": 116
   },
   "glyphBounds": "{{0, 4}, {868, 54}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -69,14 +73,14 @@
   "resizingConstraint": 43,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "16FFB9ED-1888-4217-837B-650E3278999E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "1721EC63-EFE5-4C17-98E0-FB2311494A69",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "16FFB9ED-1888-4217-837B-650E3278999E",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "F13B95E3-12F4-4DDC-8532-0BC44B0A1157",
@@ -105,7 +109,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

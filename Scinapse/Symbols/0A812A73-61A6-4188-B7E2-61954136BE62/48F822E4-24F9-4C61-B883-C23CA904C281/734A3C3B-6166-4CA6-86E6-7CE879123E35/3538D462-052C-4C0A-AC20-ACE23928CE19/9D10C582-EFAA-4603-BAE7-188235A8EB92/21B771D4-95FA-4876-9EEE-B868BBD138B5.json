@@ -96,6 +96,8 @@
     "string": "Author1 (Afflication), Author2 (Afflication)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "21B771D4-95FA-4876-9EEE-B868BBD138B5",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -118,6 +120,8 @@
     "y": 0
   },
   "glyphBounds": "{{0, 3}, {260, 16}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -129,14 +133,14 @@
   "resizingConstraint": 43,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "16FFB9ED-1888-4217-837B-650E3278999E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "9EAECFE2-0162-42EC-9F2E-0C897E3A3EE2",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "16FFB9ED-1888-4217-837B-650E3278999E",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "572BE0F6-F717-4DED-AAE5-B9CCE26DEF27",
@@ -166,7 +170,8 @@
         "underlineStyle": 1
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

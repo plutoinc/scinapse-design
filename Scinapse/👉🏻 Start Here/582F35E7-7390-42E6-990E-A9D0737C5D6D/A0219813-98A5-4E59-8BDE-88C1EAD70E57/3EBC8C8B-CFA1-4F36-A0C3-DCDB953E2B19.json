@@ -36,6 +36,8 @@
     "string": "Now that you’ve changed all of your base colors, match the color of the text beneath it to your new colors!\n\nDrag to select all of the text layers at the same time Choose a new color from the Inspector, then sync your changes to update the Text Style."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "3EBC8C8B-CFA1-4F36-A0C3-DCDB953E2B19",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +58,8 @@
     "y": 79
   },
   "glyphBounds": "{{0, 5}, {528, 161}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -67,14 +71,14 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "7C80002D-6C7B-4A3C-BE55-60AD4C877FC9",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "65FCF388-4EF9-42B2-9724-47F699243090",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "7C80002D-6C7B-4A3C-BE55-60AD4C877FC9",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -102,7 +106,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

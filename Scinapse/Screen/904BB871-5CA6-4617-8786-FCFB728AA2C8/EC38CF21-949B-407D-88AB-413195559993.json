@@ -37,6 +37,8 @@
     "string": "COLLECTIONS OF THIS PAPER "
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "EC38CF21-949B-407D-88AB-413195559993",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -59,6 +61,8 @@
     "y": 430
   },
   "glyphBounds": "{{0, 4}, {218, 12}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -70,14 +74,14 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "8CA8E2CE-8BBB-4DE3-B7F4-2DBAF000B48E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "926CC59A-B7AC-4F04-B104-4CE0F8CEE51C",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "8CA8E2CE-8BBB-4DE3-B7F4-2DBAF000B48E",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "757379D0-97D0-4DD5-A437-A55DE452DC9D",
@@ -107,7 +111,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

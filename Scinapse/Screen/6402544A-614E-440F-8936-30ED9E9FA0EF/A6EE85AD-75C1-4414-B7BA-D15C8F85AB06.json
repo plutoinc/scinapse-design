@@ -37,6 +37,8 @@
     "string": "Top field of study"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "A6EE85AD-75C1-4414-B7BA-D15C8F85AB06",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -59,6 +61,8 @@
     "y": 258
   },
   "glyphBounds": "{{0, 5}, {158, 21}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -70,14 +74,14 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "E5560C27-F2AD-41E2-A1F2-011D1D1C64F2",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "93382819-7020-45B6-A46E-8D591CFDC321",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "E5560C27-F2AD-41E2-A1F2-011D1D1C64F2",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -106,7 +110,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

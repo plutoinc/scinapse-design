@@ -37,6 +37,8 @@
     "string": "Author Name"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "E103CFC5-F502-4C39-849E-187A34BCFC97",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -59,6 +61,8 @@
     "y": 94
   },
   "glyphBounds": "{{0, 7}, {155, 21}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -70,14 +74,14 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "3BBA0454-BC32-403E-83E0-2387D3ECAC4D",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "A051D43C-C0A1-4DEC-BA23-E0D23E2446E9",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "3BBA0454-BC32-403E-83E0-2387D3ECAC4D",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "2B28EFAB-3CCE-4ADA-A3EC-01EFC3F5C0A8",
@@ -107,7 +111,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

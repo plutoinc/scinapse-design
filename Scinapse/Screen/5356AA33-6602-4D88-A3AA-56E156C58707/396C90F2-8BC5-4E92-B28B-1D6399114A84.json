@@ -67,6 +67,8 @@
     "string": "Sci-napse can't find any result for “[search keyword]”"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "396C90F2-8BC5-4E92-B28B-1D6399114A84",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -89,6 +91,8 @@
     "y": 187
   },
   "glyphBounds": "{{0, 3}, {327, 15}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -100,14 +104,14 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "16FFB9ED-1888-4217-837B-650E3278999E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "C4863518-E8A7-44BB-AD67-4EC110C3FAC9",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "16FFB9ED-1888-4217-837B-650E3278999E",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "B1DAE7E0-5E9F-407B-B419-40F9E0B89075",
@@ -137,7 +141,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

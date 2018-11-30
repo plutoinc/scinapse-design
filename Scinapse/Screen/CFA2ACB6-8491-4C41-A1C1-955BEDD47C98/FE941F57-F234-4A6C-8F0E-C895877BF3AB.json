@@ -65,6 +65,8 @@
     "string": "DOI | 10.1021/ac202058w"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "FE941F57-F234-4A6C-8F0E-C895877BF3AB",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -87,6 +89,8 @@
     "y": 212
   },
   "glyphBounds": "{{0, 4}, {163, 13}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -98,14 +102,14 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "16FFB9ED-1888-4217-837B-650E3278999E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "13450F7F-271A-4AD1-B10C-7B6A888EC2BD",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "16FFB9ED-1888-4217-837B-650E3278999E",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "A359BACD-3047-4589-865A-4F41F97D8361",
@@ -134,7 +138,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

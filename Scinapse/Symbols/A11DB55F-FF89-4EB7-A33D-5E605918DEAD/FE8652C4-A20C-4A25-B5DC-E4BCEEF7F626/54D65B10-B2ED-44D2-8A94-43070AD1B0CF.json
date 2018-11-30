@@ -1,6 +1,7 @@
 {
   "_class": "rectangle",
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "54D65B10-B2ED-44D2-8A94-43070AD1B0CF",
   "edited": false,
   "exportOptions": {
@@ -21,8 +22,10 @@
     "x": 7,
     "y": 0
   },
+  "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
   "isClosed": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -76,5 +79,12 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  }
 }

@@ -37,6 +37,8 @@
     "string": "RTB-papers"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "522ACBD4-41EA-4BAE-AFD6-519509CFECA8",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -59,6 +61,8 @@
     "y": 92
   },
   "glyphBounds": "{{1, 8}, {138, 25}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -70,14 +74,14 @@
   "resizingConstraint": 43,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "3BBA0454-BC32-403E-83E0-2387D3ECAC4D",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "71349A9C-6256-461A-8670-45297D26FC57",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "3BBA0454-BC32-403E-83E0-2387D3ECAC4D",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "9C59A63A-F939-493B-9202-901C5A186A54",
@@ -107,7 +111,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

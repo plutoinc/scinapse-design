@@ -4,10 +4,9 @@
   "name": "01 - Caption/Normal/Accent 2 - Centered",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "8F9E7CF4-2E13-42D9-8E35-8A9F5C0B9BC3",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -35,6 +34,7 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   }
 }

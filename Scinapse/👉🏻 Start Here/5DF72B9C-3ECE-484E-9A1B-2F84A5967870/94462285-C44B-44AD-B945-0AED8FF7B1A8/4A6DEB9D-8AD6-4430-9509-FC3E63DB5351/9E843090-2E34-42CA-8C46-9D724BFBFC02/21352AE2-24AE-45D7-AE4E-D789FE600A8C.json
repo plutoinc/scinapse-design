@@ -37,6 +37,8 @@
     "string": "A splash of color looks nice, too!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "21352AE2-24AE-45D7-AE4E-D789FE600A8C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +59,8 @@
     "y": 139
   },
   "glyphBounds": "{{0, 7}, {292, 21}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,14 +72,14 @@
   "resizingConstraint": 45,
   "resizingType": 3,
   "rotation": 0,
+  "sharedStyleID": "4BD99462-1974-419E-9757-D39BB77010C9",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "29F4F770-8C8D-4B0E-9844-643D47704568",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "4BD99462-1974-419E-9757-D39BB77010C9",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -104,7 +108,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

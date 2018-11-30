@@ -65,6 +65,8 @@
     "string": "PUBLISHED | 2016 in PLOS ONE [IF: 2.81]"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "AF605027-FFD9-4B04-A8EF-0683DCCF8A9E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -87,6 +89,8 @@
     "y": 195
   },
   "glyphBounds": "{{0, 3}, {255, 15}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -98,14 +102,14 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "16FFB9ED-1888-4217-837B-650E3278999E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "83D90CD6-9212-49DC-BD61-E19B8C1F4BFA",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "16FFB9ED-1888-4217-837B-650E3278999E",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "05B67AE7-E94B-46F4-B67A-D05631EB36C6",
@@ -134,7 +138,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

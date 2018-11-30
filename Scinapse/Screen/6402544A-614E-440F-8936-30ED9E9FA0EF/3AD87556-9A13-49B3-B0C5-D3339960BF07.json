@@ -36,6 +36,8 @@
     "string": "Journal Description"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "3AD87556-9A13-49B3-B0C5-D3339960BF07",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -58,6 +60,8 @@
     "y": 155
   },
   "glyphBounds": "{{0, 4}, {155, 18}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -69,14 +73,14 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "7128504B-EBD0-48DB-AD8E-31D7DBB20FDE",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "8846907A-5948-4831-A758-67AB139C0884",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "7128504B-EBD0-48DB-AD8E-31D7DBB20FDE",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -104,7 +108,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

@@ -35,6 +35,8 @@
     "string": "by Jon & Christian"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "796540A4-10D4-4CBA-88F9-87EBDF0CC043",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,6 +57,8 @@
     "y": 17
   },
   "glyphBounds": "{{0, 3}, {80, 11}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -66,6 +70,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "2F17B9FC-8C03-441A-85F8-D373DB6C2F0E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -75,10 +80,9 @@
       "opacity": 0.5
     },
     "do_objectID": "05DC7E6B-AF72-4341-B550-27A6BBB72BD4",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "2F17B9FC-8C03-441A-85F8-D373DB6C2F0E",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -105,7 +109,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

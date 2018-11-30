@@ -35,6 +35,8 @@
     "string": "Contact us"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "2AEAA4C2-3E1B-4936-9D30-4A2352DFA7D8",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +59,8 @@
     "y": 0
   },
   "glyphBounds": "{{0, 3}, {58, 10}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,14 +72,14 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "1F998FC6-BE07-41EB-8361-C7631EC5B43F",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "0FE2535B-5F52-4F75-B3C7-CA379CA67FE2",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "1F998FC6-BE07-41EB-8361-C7631EC5B43F",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "847993FC-D581-4C2E-947B-28E0D325D783",
@@ -103,7 +107,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

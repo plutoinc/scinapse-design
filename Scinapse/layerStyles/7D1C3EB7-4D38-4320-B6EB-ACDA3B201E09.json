@@ -4,7 +4,7 @@
   "name": "Palette/UI/Border Left/Primary",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "innerShadows": [
       {
         "_class": "innerShadow",
@@ -28,7 +28,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "7D1C3EB7-4D38-4320-B6EB-ACDA3B201E09",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

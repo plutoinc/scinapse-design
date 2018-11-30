@@ -4,7 +4,7 @@
   "name": "Palette/UI/Border Left - Thick/Accent 3",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "innerShadows": [
       {
         "_class": "innerShadow",
@@ -28,7 +28,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "469C1962-E7B5-41D7-9056-83D3587E1D7A",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

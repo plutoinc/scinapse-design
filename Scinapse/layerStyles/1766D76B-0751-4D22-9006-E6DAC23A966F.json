@@ -4,7 +4,7 @@
   "name": "Palette/UI/Border Bottom - Thick/Grayscale 2",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "innerShadows": [
       {
         "_class": "innerShadow",
@@ -28,7 +28,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "1766D76B-0751-4D22-9006-E6DAC23A966F",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

@@ -36,6 +36,8 @@
     "string": "A collection of research and survey papers of real-time bidding (RTB) based display advertising techniques."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "184B8939-B025-451E-B669-BF111069B127",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -58,6 +60,8 @@
     "y": 136
   },
   "glyphBounds": "{{0, 3}, {663, 43}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -69,14 +73,14 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "7128504B-EBD0-48DB-AD8E-31D7DBB20FDE",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "8309329F-9A2E-456D-BEED-EEFD8D14B222",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "7128504B-EBD0-48DB-AD8E-31D7DBB20FDE",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "6757B4A8-39A1-48B6-95F8-25240E1431E4",
@@ -105,7 +109,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

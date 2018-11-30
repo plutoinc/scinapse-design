@@ -37,6 +37,8 @@
     "string": "Use a gradient for lower-thirds."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "4644614E-FAA4-4FB4-A1A5-91D2F30BCA7E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +59,8 @@
     "y": 266
   },
   "glyphBounds": "{{1, 5}, {279, 21}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,14 +72,14 @@
   "resizingConstraint": 18,
   "resizingType": 2,
   "rotation": 0,
+  "sharedStyleID": "7476AC05-32D6-4807-9895-F8217DE18AA1",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "DAEC0F83-C8A6-4A8C-89B1-A8938C4EFA01",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "7476AC05-32D6-4807-9895-F8217DE18AA1",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -104,7 +108,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

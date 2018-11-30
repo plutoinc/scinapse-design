@@ -1,6 +1,7 @@
 {
   "_class": "rectangle",
   "booleanOperation": 3,
+  "clippingMaskMode": 0,
   "do_objectID": "BD191A3A-12B8-41CA-9D6D-9D1357198A27",
   "edited": false,
   "exportOptions": {
@@ -21,8 +22,10 @@
     "x": 10,
     "y": 7
   },
+  "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
   "isClosed": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -77,6 +80,13 @@
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

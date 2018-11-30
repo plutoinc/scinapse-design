@@ -36,6 +36,8 @@
     "string": "Paper Collection"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "6B82D5D7-4EE3-4D65-B107-8F289FEB4569",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -58,6 +60,8 @@
     "y": 19
   },
   "glyphBounds": "{{1, 4}, {132, 18}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -69,14 +73,14 @@
   "resizingConstraint": 41,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "66FB6337-31C3-4FE5-BCF8-3E297BA167CC",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "B81605CA-401B-492D-8E3E-62EA1BAB386C",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "66FB6337-31C3-4FE5-BCF8-3E297BA167CC",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "37E2191E-258B-4188-8938-3833EFB50556",
@@ -105,7 +109,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

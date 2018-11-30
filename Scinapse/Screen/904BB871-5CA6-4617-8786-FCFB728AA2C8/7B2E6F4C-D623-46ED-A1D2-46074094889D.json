@@ -37,6 +37,8 @@
     "string": "Comments"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "7B2E6F4C-D623-46ED-A1D2-46074094889D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -59,6 +61,8 @@
     "y": 767
   },
   "glyphBounds": "{{0, 6}, {98, 16}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -70,14 +74,14 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "E5560C27-F2AD-41E2-A1F2-011D1D1C64F2",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "40D00766-62E4-4137-B0B4-AF8C1C3A0350",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "E5560C27-F2AD-41E2-A1F2-011D1D1C64F2",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "45E6B6A4-BC66-4700-AAB4-569C2D073355",
@@ -107,7 +111,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

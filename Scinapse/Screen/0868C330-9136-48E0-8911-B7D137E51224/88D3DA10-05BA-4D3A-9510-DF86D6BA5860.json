@@ -37,6 +37,8 @@
     "string": "Comments on the paper make it easy to find relevant papers for my research and comprehend them better"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "88D3DA10-05BA-4D3A-9510-DF86D6BA5860",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -59,6 +61,8 @@
     "y": 641
   },
   "glyphBounds": "{{0, 4}, {375, 41}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -70,14 +74,14 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "4147D584-37A3-4776-9267-7F58E0D44414",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "952AE837-EFC1-4D20-B9D0-5529E017D518",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "4147D584-37A3-4776-9267-7F58E0D44414",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "08389A53-656E-421B-96E1-7E279DA30FFE",
@@ -107,7 +111,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

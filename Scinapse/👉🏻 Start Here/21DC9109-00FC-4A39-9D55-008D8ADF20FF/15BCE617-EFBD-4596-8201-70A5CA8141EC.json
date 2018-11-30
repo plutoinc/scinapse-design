@@ -37,6 +37,8 @@
     "string": "Mega"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "15BCE617-EFBD-4596-8201-70A5CA8141EC",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +59,8 @@
     "y": 887
   },
   "glyphBounds": "{{5, 21}, {172, 67}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,14 +72,14 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "A42E0EF7-0AB5-49AB-B1D2-B043D7813D71",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "75E120FB-1D5F-48C4-A64E-411F084A471D",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "A42E0EF7-0AB5-49AB-B1D2-B043D7813D71",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -104,7 +108,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

@@ -4,7 +4,7 @@
   "name": "Palette/UI/Border Bottom - Thick/Secondary",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "innerShadows": [
       {
         "_class": "innerShadow",
@@ -28,7 +28,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "A111CAD4-55A3-49A4-9A14-ABDB4AC04DB9",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

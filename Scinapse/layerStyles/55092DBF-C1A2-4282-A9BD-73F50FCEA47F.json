@@ -10,6 +10,7 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 2,
+      "saturation": 1,
       "type": 3
     },
     "contextSettings": {
@@ -17,7 +18,7 @@
       "blendMode": 0,
       "opacity": 0.75
     },
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -37,7 +38,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "55092DBF-C1A2-4282-A9BD-73F50FCEA47F",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

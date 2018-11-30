@@ -8,6 +8,8 @@
     "green": 1,
     "red": 1
   },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "431FEE49-3778-4E23-931D-0B0255A1653F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -37,6 +39,7 @@
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,6 +49,7 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
@@ -54,151 +58,151 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "8C47191B-4BEC-4A7D-8EB8-12EB62B79FBD"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "DA7EAE55-84BA-49F4-9997-85432AE8FA9B"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "2B86F04D-9C2D-43F9-AFC5-89DE31345C14"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "8343E633-0CF3-402D-8A41-2879A732807E"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "99E5C7F8-D78F-4D75-B253-C52346FF75B9"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "BAFBCCE4-E384-401B-A85D-CA11E7DCBA09"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "DDE1B13B-6885-42C4-AE39-A66760C8CF40"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "C6FBA6CD-C010-4B80-8F17-AF022B3B92AC"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "8642E1A3-51AF-4177-9231-002249587E68"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "B3FE305A-43E4-4FE3-90DA-13661C706FEB"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "2FEDD600-158D-4E24-9F44-8C006FA95477"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "F10CBA4A-3C35-4797-A2FA-8C8F49A72C86"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "28A36FEA-8230-456F-84B9-6D6D3A89017B"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "EACEE462-7936-492D-B6AE-65C0C53128F6"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "999733C9-E240-415E-8287-D5DE3D115AD9"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "6F60C3F5-5ABA-4627-B1DF-AE67AD9E956F"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "AC03B998-D8BA-4FFA-8810-94A5189BEAB2"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "E7D3EA5A-647D-458E-9AF4-DD2FB2E9AC50"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "8D4353D2-E46A-4BC3-9C44-89A8061DF14C"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "C61F8477-2798-41A9-91C6-0CEE2EF65F05"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "330B9285-3BCE-4180-90F4-95A5B57E75AC"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "CAC26EAA-0DEC-4B2F-82C3-C8C2F3469F18"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "BD19B851-ABFF-44D3-9FBA-FC9D01A99A68"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "3732196E-F975-4135-99A1-B2776806C305"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "A0983BBC-6C1A-48D1-B521-091C30BD38D2"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "E1083678-2E7F-4DD3-B097-6FB4675B2D76"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "43810C1E-0C68-4F25-8407-4A003298D1F7"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "CF34C10D-F329-4644-803E-01149500DA04"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "3801F6CB-2A36-4234-BCCC-5B528CE4F0F5"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "524645BA-0589-4C6E-BD3D-45636D452D7F"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "7A0B2FC4-D114-4ABC-84C3-BCE488318286"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "54CA6B67-BF2D-42F1-BB0D-ECEF84B18314"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "106AEF68-865B-4CC0-8714-3846F3BFCCDC"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "8CD24235-F84F-4CE2-97E6-DB8D63E709FA"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "90B5E306-F803-4376-B70B-28C3C6B713A8"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "68074C41-47AD-4C80-AE9C-311425D26AF0"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "F03E31D8-E877-4C53-A989-D49608F31DEA"
     },
     {
@@ -232,9 +236,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "7A52B7A2-CF59-4BE7-BAE0-C7F783D71FA5",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {

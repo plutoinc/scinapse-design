@@ -36,6 +36,8 @@
     "string": "Not Your Parents' Presidential Debates: Examining the Effects of the CNN/YouTube Debates on Young Citizens' Civic Engagement"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "1E2F8C28-1B2C-42B9-9D48-7569D18AFFAD",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -58,6 +60,8 @@
     "y": 0
   },
   "glyphBounds": "{{0, 4}, {319, 90}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -69,14 +73,14 @@
   "resizingConstraint": 27,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "66FB6337-31C3-4FE5-BCF8-3E297BA167CC",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "8A85B2DE-6749-4E96-B68F-912A71DB8159",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "66FB6337-31C3-4FE5-BCF8-3E297BA167CC",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "E4B31930-0FF9-4394-83F4-A3F29D20E8B6",
@@ -105,7 +109,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

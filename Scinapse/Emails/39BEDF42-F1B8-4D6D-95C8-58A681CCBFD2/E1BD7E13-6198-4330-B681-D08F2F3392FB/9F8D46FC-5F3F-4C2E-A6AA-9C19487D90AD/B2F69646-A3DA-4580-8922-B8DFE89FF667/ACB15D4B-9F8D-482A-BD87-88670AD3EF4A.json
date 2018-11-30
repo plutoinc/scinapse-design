@@ -37,6 +37,8 @@
     "string": "Popular This Week"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "ACB15D4B-9F8D-482A-BD87-88670AD3EF4A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +59,8 @@
     "y": 681
   },
   "glyphBounds": "{{176, 8}, {169, 20}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,14 +72,14 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "8D57AB48-125F-46F5-B99D-01655C086EB4",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "2A48B1F7-E085-4474-A158-2172CBC1E8ED",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "8D57AB48-125F-46F5-B99D-01655C086EB4",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -104,7 +108,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

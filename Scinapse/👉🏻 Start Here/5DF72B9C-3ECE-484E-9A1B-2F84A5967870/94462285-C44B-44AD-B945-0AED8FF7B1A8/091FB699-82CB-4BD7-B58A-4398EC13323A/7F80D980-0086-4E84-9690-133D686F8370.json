@@ -36,6 +36,8 @@
     "string": "A gradient scrim usually goes from base black 50%, to base black 0%."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "7F80D980-0086-4E84-9690-133D686F8370",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +58,8 @@
     "y": 645
   },
   "glyphBounds": "{{0, 4}, {522, 39}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -67,14 +71,14 @@
   "resizingConstraint": 34,
   "resizingType": 2,
   "rotation": 0,
+  "sharedStyleID": "7128504B-EBD0-48DB-AD8E-31D7DBB20FDE",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "CE162FDA-7F03-43B4-A02E-9025E7A89D0F",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "7128504B-EBD0-48DB-AD8E-31D7DBB20FDE",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -102,7 +106,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

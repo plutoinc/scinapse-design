@@ -37,6 +37,8 @@
     "string": "Papers"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "2121A0FF-42BB-4276-987E-BB0A09109441",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -59,6 +61,8 @@
     "y": 0
   },
   "glyphBounds": "{{1, 6}, {62, 20}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -70,14 +74,14 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "5483711F-8143-4BDA-9775-C5E91E5FF75F",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "55A12B18-26B6-4C9D-AE7A-EC488AE5D9BA",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "5483711F-8143-4BDA-9775-C5E91E5FF75F",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "B4B444B6-3AC0-4EAD-BDA9-4C20DCA8102A",
@@ -107,7 +111,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

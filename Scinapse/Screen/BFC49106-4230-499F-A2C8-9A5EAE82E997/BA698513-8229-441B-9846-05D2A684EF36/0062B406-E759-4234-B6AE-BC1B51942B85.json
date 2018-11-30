@@ -69,14 +69,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3686274509803918,
-            "green": 0.2941176470588234,
-            "red": 0.9607843137254902
+            "blue": 0.4862745098039216,
+            "green": 0.4274509803921569,
+            "red": 0.4
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
+              "name": "Roboto-Bold",
               "size": 14
             }
           },
@@ -97,6 +97,8 @@
     "string": "Showing results for apple"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "0062B406-E759-4234-B6AE-BC1B51942B85",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -114,11 +116,13 @@
     "constrainProportions": false,
     "do_objectID": "FEBE2F1D-2FAE-43D2-AC21-93261E7D1495",
     "height": 20,
-    "width": 158,
+    "width": 159,
     "x": 0,
     "y": 28
   },
   "glyphBounds": "{{0, 4}, {158, 14}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -130,14 +134,14 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "16FFB9ED-1888-4217-837B-650E3278999E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "81BB6F58-3EFD-4D39-9454-5608F869EE46",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "16FFB9ED-1888-4217-837B-650E3278999E",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "D9CF822F-2F91-49DC-BA6B-8521DD42B976",
@@ -167,7 +171,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

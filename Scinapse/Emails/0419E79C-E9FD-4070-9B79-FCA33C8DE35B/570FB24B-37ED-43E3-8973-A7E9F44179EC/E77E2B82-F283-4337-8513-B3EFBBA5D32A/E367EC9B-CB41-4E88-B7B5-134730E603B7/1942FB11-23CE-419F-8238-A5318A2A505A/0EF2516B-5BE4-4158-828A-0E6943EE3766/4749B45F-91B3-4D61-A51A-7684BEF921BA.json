@@ -1,0 +1,215 @@
+{
+  "_class": "rectangle",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4749B45F-91B3-4D61-A51A-7684BEF921BA",
+  "edited": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fixedRadius": 7,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 80,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "hasConvertedToNewRoundCorners": true,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Image",
+  "nameIsFixed": true,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 7,
+      "curveFrom": "{0, 0}",
+      "curveMode": 1,
+      "curveTo": "{0, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 7,
+      "curveFrom": "{1, 0}",
+      "curveMode": 1,
+      "curveTo": "{1, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 7,
+      "curveFrom": "{1, 1}",
+      "curveMode": 1,
+      "curveTo": "{1, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 7,
+      "curveFrom": "{0, 1}",
+      "curveMode": 1,
+      "curveTo": "{0, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 1}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "8DBAC079-2817-4B82-9FC3-C5C58471265F",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "21F36FF9-8AF3-4EF3-A82D-151CCE698B26",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2078431372549019,
+          "green": 0.1647058823529411,
+          "red": 0.1176470588235294
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "centerVertically": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_3c6487f0-3838-4260-8f45-655c0fdaae3f",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_70f7dfec-4fef-4132-8d14-3010fa7d5ea4",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    },
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "asTile": 0,
+        "items": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/I/41Er3cQc8lL._AC_US218_.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/I/31UFUJd2FHL._AC_US218_.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/I/41UhA+5-gdL._AC_US218_.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/I/51Cn73cuv5L._AC_US218_.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/I/51LsWPLmnML._AC_US218_.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/I/518BDZnP-wL._AC_US218_.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/I/51aCaCcYRkL._AC_US218_.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/I/513yrfDnLhL._AC_US218_.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/I/41M0Vnzr7QL._AC_US218_.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/I/31Nd7O3fNAL._AC_US218_.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/I/41Yp6E7L8fL._AC_US218_.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/I/51873uWJLOL._AC_US218_.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/I/51resJeacJL._AC_US218_.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/I/51UP7tUDW5L._AC_US218_.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/I/510JCfPJYmL._AC_US218_.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/I/312z7is48wL._AC_US218_.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/I/51aOQU5ML1L._AC_US218_.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/I/51d0KiPXd+L._AC_US218_.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/I/51PUhArH5zL._AC_US218_.jpg",
+            "type": "src"
+          }
+        ],
+        "mode": "web"
+      }
+    }
+  }
+}

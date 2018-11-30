@@ -37,6 +37,8 @@
     "string": "Thanks again for your order! We hope you enjoy your purchase(s)."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "505F189E-B7D1-41A4-9B28-33EF851504D2",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +59,8 @@
     "y": 768
   },
   "glyphBounds": "{{56, 3}, {407, 16}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,14 +72,14 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "1DA861E2-10A0-4E85-B2DA-20C36E2C18F5",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "C0EDB1BD-E867-45BA-93ED-3E981B360AA1",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "1DA861E2-10A0-4E85-B2DA-20C36E2C18F5",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -104,7 +108,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

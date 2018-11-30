@@ -37,6 +37,8 @@
     "string": "Step 3: Customize Typography"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "72EF4712-55EC-45E3-B974-A820E5049578",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +59,8 @@
     "y": 0
   },
   "glyphBounds": "{{1, 12}, {497, 35}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,14 +72,14 @@
   "resizingConstraint": 10,
   "resizingType": 2,
   "rotation": 0,
+  "sharedStyleID": "24C0444A-5FBB-4978-AB0E-CD09CE3385AF",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "5F8A791F-E935-4B13-8593-AA1D6F0527EB",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "24C0444A-5FBB-4978-AB0E-CD09CE3385AF",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -104,7 +108,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

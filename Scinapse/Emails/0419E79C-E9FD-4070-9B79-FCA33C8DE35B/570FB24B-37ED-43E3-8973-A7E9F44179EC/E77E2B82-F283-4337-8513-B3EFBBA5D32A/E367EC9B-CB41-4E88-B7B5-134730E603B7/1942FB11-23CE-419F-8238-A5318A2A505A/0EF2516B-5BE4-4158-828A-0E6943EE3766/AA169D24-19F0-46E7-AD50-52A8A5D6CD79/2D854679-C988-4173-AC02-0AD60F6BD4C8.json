@@ -35,6 +35,8 @@
     "string": "UX Power Tools - Web"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "2D854679-C988-4173-AC02-0AD60F6BD4C8",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,6 +57,8 @@
     "y": 1
   },
   "glyphBounds": "{{0, 3}, {119, 10}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -66,14 +70,14 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "2ED15CC2-8220-44BF-934B-23FB1638DDDB",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "122D969A-F7E8-4AEC-B8AF-D147F03FDD99",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "2ED15CC2-8220-44BF-934B-23FB1638DDDB",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -100,7 +104,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

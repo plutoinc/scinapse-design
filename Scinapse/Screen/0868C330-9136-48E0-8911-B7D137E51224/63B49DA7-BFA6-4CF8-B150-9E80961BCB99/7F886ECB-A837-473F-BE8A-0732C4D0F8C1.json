@@ -37,6 +37,8 @@
     "string": "Metadata of papers comes from"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "7F886ECB-A837-473F-BE8A-0732C4D0F8C1",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -59,6 +61,8 @@
     "y": 35
   },
   "glyphBounds": "{{1, 4}, {257, 18}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -70,14 +74,14 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "7128504B-EBD0-48DB-AD8E-31D7DBB20FDE",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "93F75F30-3134-410C-9B6B-577E82673C47",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "7128504B-EBD0-48DB-AD8E-31D7DBB20FDE",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "F6F3A701-87E3-4E32-995D-AC39D89821E6",
@@ -107,7 +111,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

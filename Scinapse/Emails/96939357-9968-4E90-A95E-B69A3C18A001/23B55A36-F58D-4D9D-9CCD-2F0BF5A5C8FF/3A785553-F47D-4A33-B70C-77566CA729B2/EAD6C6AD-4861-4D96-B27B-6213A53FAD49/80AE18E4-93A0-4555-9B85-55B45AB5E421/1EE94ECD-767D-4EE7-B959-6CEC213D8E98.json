@@ -36,6 +36,8 @@
     "string": "We can’t wait for you to try this tremendous feature."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "1EE94ECD-767D-4EE7-B959-6CEC213D8E98",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +58,8 @@
     "y": 209
   },
   "glyphBounds": "{{123, 2}, {274, 13}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -67,14 +71,14 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "63E3C384-03F8-4948-AC97-1F8EBBA57A6B",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "BC626D20-1C98-4ACF-BFD3-7FCB8C21A4E6",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "63E3C384-03F8-4948-AC97-1F8EBBA57A6B",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -102,7 +106,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

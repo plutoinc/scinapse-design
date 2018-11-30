@@ -36,6 +36,8 @@
     "string": "Economic Policy is health policy: findings from the study of income, socioeconomic status, and health."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "0BADDB7D-4330-4334-935B-F3B530DFF4D8",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -58,6 +60,8 @@
     "y": 0
   },
   "glyphBounds": "{{0, 5}, {750, 48}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -69,14 +73,14 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "58507FD2-6E4B-4B4D-82F3-3882D3898BAB",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "8AA4E9A9-B704-4DF6-BF73-6488B77EF5DA",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "58507FD2-6E4B-4B4D-82F3-3882D3898BAB",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "86DD10F4-F277-4820-8314-83B3FCE716EA",
@@ -105,7 +109,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

@@ -36,6 +36,8 @@
     "string": "I didn’t change my password."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "B088B1CB-BCAD-4153-91CE-406BC6977A86",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +58,8 @@
     "y": 161
   },
   "glyphBounds": "{{183, 3}, {154, 12}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -67,14 +71,14 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "51AE6090-0C95-405C-9C98-E31AECB652A0",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "1C1F686A-6B76-4581-B431-E4C6C0056B66",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "51AE6090-0C95-405C-9C98-E31AECB652A0",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -102,7 +106,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

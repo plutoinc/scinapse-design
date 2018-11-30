@@ -4,7 +4,7 @@
   "name": "Shadow 0",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -24,7 +24,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "48BB83D5-E0F8-4EA3-9A76-67BF3076CEE2",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

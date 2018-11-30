@@ -36,6 +36,8 @@
     "string": "By now you should have all of your base colors set. Now it’s time to change the font.\n\nDrag to select every text style, then choose a new typeface in the Inspector. It might take a couple seconds to update. When they’re changed, don’t forget to sync!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "367A4EB3-4486-4B41-AE0D-7DA7EF6FA4B6",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +58,8 @@
     "y": 79
   },
   "glyphBounds": "{{0, 5}, {538, 161}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -67,14 +71,14 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "7C80002D-6C7B-4A3C-BE55-60AD4C877FC9",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "210B9190-FDF8-4B62-A932-0C275BC909C7",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "7C80002D-6C7B-4A3C-BE55-60AD4C877FC9",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -102,7 +106,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

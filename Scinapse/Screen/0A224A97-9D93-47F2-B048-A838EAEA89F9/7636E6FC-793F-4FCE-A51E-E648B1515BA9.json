@@ -35,6 +35,8 @@
     "string": "Delete this collection"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "7636E6FC-793F-4FCE-A51E-E648B1515BA9",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +59,8 @@
     "y": 4
   },
   "glyphBounds": "{{0, 3}, {113, 10}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,14 +72,14 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "B960DF02-7AC6-407A-A86D-7F36560B67FA",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "582BEBEB-6CCB-4446-8499-2E5DAD4D49DC",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "B960DF02-7AC6-407A-A86D-7F36560B67FA",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "2BC11FAD-4BFC-4A50-AEDA-1A067E522E67",
@@ -103,7 +107,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

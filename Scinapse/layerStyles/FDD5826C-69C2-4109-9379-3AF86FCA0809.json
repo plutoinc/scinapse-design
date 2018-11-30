@@ -4,7 +4,7 @@
   "name": "Palette/UI/Border Left - Thick/Grayscale 4",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "innerShadows": [
       {
         "_class": "innerShadow",
@@ -28,7 +28,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "FDD5826C-69C2-4109-9379-3AF86FCA0809",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

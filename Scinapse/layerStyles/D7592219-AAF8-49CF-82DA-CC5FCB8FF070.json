@@ -4,7 +4,7 @@
   "name": "Container/Menu",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -46,7 +46,7 @@
         "spread": 0
       }
     ],
-    "sharedObjectID": "D7592219-AAF8-49CF-82DA-CC5FCB8FF070",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

@@ -37,6 +37,8 @@
     "string": "Sci-napse is a free, nonprofit, Academic search engine \nfor papers, serviced by Pluto Network."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "3CDAEBA1-8CC7-4BD2-B2AD-8AFE9406A552",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -59,6 +61,8 @@
     "y": 253
   },
   "glyphBounds": "{{2, 4}, {432, 42}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -70,14 +74,14 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "4147D584-37A3-4776-9267-7F58E0D44414",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "EA2B6685-6372-4AF0-AB2E-DCF3AB6A8677",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "4147D584-37A3-4776-9267-7F58E0D44414",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -106,7 +110,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

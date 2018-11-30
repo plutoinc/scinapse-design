@@ -125,6 +125,8 @@
     "string": "Pawel Swietojanski (University of Edinburgh), Arnab Ghoshal (University of Edinburgh), …"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "7E6DBEB6-0A0E-47D4-BDF8-541689ABBA86",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -147,6 +149,8 @@
     "y": 82.25116279069766
   },
   "glyphBounds": "{{1, 3}, {545, 16}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -158,14 +162,14 @@
   "resizingConstraint": 43,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "16FFB9ED-1888-4217-837B-650E3278999E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "B0441BAB-74C8-44DD-83A6-8BA4F296E022",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "16FFB9ED-1888-4217-837B-650E3278999E",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "CBEFB0B7-9DEB-4EE8-AC44-A031694600FF",
@@ -195,7 +199,8 @@
         "underlineStyle": 1
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

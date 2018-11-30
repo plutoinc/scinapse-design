@@ -35,6 +35,8 @@
     "string": "Facebook"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "D420F3C2-7069-4123-B50B-8E7C9FDA85F7",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +59,8 @@
     "y": 0
   },
   "glyphBounds": "{{0, 3}, {53, 10}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,14 +72,14 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "1F998FC6-BE07-41EB-8361-C7631EC5B43F",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "234489E1-0860-463A-88E2-533BB0317AF2",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "1F998FC6-BE07-41EB-8361-C7631EC5B43F",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "82B724BF-CF45-47F2-B5BB-02B2FA551110",
@@ -103,7 +107,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

@@ -1,0 +1,180 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B41D7317-2FC3-437F-A59E-6E7968D569F2",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BDAD7B23-BA16-45C6-B087-39C68107AA72",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "87173C7D-3428-4420-A368-3A3F0EE2ED7F",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "531B73E7-1D1E-4DA1-9BBA-7885D3A00839",
+    "height": 900,
+    "width": 1439,
+    "x": 422,
+    "y": -357
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4FBB0B96-465E-40CB-9301-8E7CD9E67AC0",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "E2F79137-601F-4A12-BE53-261A47A6569E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "92641DF7-F161-41D7-8236-54B1CB60F07E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E4FBECD9-7912-4F69-BB83-4C02327E77CD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8BC39E3C-D440-4C1C-A381-9E5E42F33774"
+    },
+    {
+      "class": "group",
+      "id": "24A9D550-EF90-4259-8675-8430C2D28570"
+    },
+    {
+      "class": "group",
+      "id": "B0D86765-A19A-4D52-A573-71FC2D235DCB"
+    },
+    {
+      "class": "group",
+      "id": "21CCB941-1234-4AB6-825B-A4FFC96975B7"
+    },
+    {
+      "class": "group",
+      "id": "EBB5E9D9-9136-4A85-A49A-1720F7D581DB"
+    },
+    {
+      "class": "group",
+      "id": "3F1D85F6-5966-478B-8C55-693ECD2C5697"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3170ABE7-C48F-4EDE-8AF5-E02E5326CC41"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "663EB63E-E5E0-4BCC-882C-DACDD3A4E922"
+    },
+    {
+      "class": "rectangle",
+      "id": "EA5B286A-43BD-4188-BB58-6A98A4CD7361"
+    },
+    {
+      "class": "group",
+      "id": "04B75EB7-FCF7-4214-BA5F-D019D02A39E2"
+    },
+    {
+      "class": "group",
+      "id": "4A5F2B74-B2FB-494C-AD3A-ACEEDA76391B"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 24,
+    "guttersOutside": false,
+    "horizontalOffset": 120,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "Author Modal",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1892524A-3D20-4771-A29E-723DFE51EB75",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4EDF381A-DCB9-4927-8F03-C76355BD6B28",
+    "guides": [
+    ]
+  }
+}

@@ -36,6 +36,8 @@
     "string": "© 2018 UX Power Tools  •  Read the Blog  •  123 Main St, Populartown, USA 90182\nTired of receiving these emails? Click here to unsubscribe."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "1E5476BF-FFFE-48E0-A843-DE97ACA8622A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +58,8 @@
     "y": 1
   },
   "glyphBounds": "{{79, 3}, {362, 27}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -67,14 +71,14 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "126C8A13-0412-46B1-8297-CA5955B48D20",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "99C52F3F-75CE-422F-9085-E1728B372E21",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "126C8A13-0412-46B1-8297-CA5955B48D20",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -102,7 +106,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

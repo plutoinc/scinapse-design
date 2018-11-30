@@ -37,6 +37,8 @@
     "string": "Quickly skim through the search results with major indices on the authors and the article."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "1314D050-3CA6-4395-8EF4-64DDBDD317FB",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -59,6 +61,8 @@
     "y": 641
   },
   "glyphBounds": "{{0, 5}, {359, 37}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -70,14 +74,14 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "4147D584-37A3-4776-9267-7F58E0D44414",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "BA4D7E86-35ED-40DB-801B-227BD9DC9390",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "4147D584-37A3-4776-9267-7F58E0D44414",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "AC6E4FEC-5862-4EFC-A05C-E4AFBF2216D4",
@@ -107,7 +111,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

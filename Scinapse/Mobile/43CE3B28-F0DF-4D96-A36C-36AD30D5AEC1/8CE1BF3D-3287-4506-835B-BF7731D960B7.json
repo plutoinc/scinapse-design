@@ -95,6 +95,8 @@
     "string": "© 2018 Pluto Network. All rights reserved"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "8CE1BF3D-3287-4506-835B-BF7731D960B7",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -117,6 +119,8 @@
     "y": 1058
   },
   "glyphBounds": "{{0, 4}, {256, 14}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -128,14 +132,14 @@
   "resizingConstraint": 42,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "16FFB9ED-1888-4217-837B-650E3278999E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "9A9043FD-9041-4356-805C-7D0784182CF2",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "16FFB9ED-1888-4217-837B-650E3278999E",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "9BCD1083-8B80-407B-91DA-F474EA5D4986",
@@ -164,7 +168,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

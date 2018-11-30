@@ -4,7 +4,7 @@
   "name": "Bounding Box",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -24,7 +24,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "93CA5144-1D97-4262-BFA8-BB62D3C73233",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

@@ -4,7 +4,7 @@
   "name": "Shadow 5",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -46,7 +46,7 @@
         "spread": 0
       }
     ],
-    "sharedObjectID": "4E7BCBE6-14FC-40FD-9CEA-C41B7CAE5D4C",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

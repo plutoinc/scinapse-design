@@ -37,6 +37,8 @@
     "string": "We hope we were able to help you find a solution to your issue. Let us know how we did so we can improve our customer support and service."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "2FC55437-835E-49FE-A295-38536A2F7707",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +59,8 @@
     "y": 108
   },
   "glyphBounds": "{{1, 4}, {518, 34}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,14 +72,14 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "1DA861E2-10A0-4E85-B2DA-20C36E2C18F5",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "A814EF91-DC18-407D-AE56-87E9C472E239",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "1DA861E2-10A0-4E85-B2DA-20C36E2C18F5",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -104,7 +108,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

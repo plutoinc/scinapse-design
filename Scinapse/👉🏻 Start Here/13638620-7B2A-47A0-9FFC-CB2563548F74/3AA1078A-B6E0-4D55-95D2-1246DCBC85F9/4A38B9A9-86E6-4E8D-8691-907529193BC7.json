@@ -36,6 +36,8 @@
     "string": "Components in the style guide are built with nested symbols, so customizing them is simple!\n\nUsing the dropdowns in the Inspector, you can effortlessly add or remove icons, change colors, and adjust component states."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "4A38B9A9-86E6-4E8D-8691-907529193BC7",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +58,8 @@
     "y": 79
   },
   "glyphBounds": "{{0, 6}, {537, 156}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -67,14 +71,14 @@
   "resizingConstraint": 45,
   "resizingType": 3,
   "rotation": 0,
+  "sharedStyleID": "7C80002D-6C7B-4A3C-BE55-60AD4C877FC9",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "05E8E430-249E-4109-84F9-A202E21E16AC",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "7C80002D-6C7B-4A3C-BE55-60AD4C877FC9",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -102,7 +106,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

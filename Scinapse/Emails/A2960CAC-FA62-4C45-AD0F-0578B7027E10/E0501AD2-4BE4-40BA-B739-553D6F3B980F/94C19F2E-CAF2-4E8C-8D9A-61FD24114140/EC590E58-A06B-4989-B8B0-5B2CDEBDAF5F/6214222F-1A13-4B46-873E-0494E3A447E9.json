@@ -36,6 +36,8 @@
     "string": "Didn’t make this request? Don’t worry, your account is still safe and sound."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "6214222F-1A13-4B46-873E-0494E3A447E9",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +58,8 @@
     "y": 245
   },
   "glyphBounds": "{{64, 2}, {392, 13}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -67,14 +71,14 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "E9FC76E2-027D-4344-B449-A44535E2909F",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "10FA149C-B602-4364-B4A7-AB9A2049767D",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "E9FC76E2-027D-4344-B449-A44535E2909F",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -102,7 +106,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

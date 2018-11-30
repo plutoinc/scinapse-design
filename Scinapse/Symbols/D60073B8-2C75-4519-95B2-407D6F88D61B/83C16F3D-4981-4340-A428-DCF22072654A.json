@@ -36,6 +36,8 @@
     "string": "Badge Small"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "83C16F3D-4981-4340-A428-DCF22072654A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +58,8 @@
     "y": 1
   },
   "glyphBounds": "{{26, 3}, {56, 11}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -67,14 +71,14 @@
   "resizingConstraint": 58,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "41EAA048-469F-4A93-BD23-67EA719BFF2A",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "6BE11F3F-DBD1-4096-8876-C0D176E10C77",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "41EAA048-469F-4A93-BD23-67EA719BFF2A",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -102,7 +106,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

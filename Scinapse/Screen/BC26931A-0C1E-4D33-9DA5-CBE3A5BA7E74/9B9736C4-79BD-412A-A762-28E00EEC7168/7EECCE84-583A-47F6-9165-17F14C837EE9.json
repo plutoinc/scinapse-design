@@ -35,6 +35,8 @@
     "string": "@article{Snyder_2002,\n\tdoi = {10.1207/s15327965pli1304_01},\n\turl = {https://doi.org/10.1207%2Fs15327965pli1304_01},\n\tyear = 2002,\n\tmonth = {oct},\n\tpublisher = {Informa {UK} Limited},\n\tvolume = {13},\n\tnumber = {4},\n\tpages = {249--275},\n\tauthor = {C. R. Snyder},\n\ttitle = {{TARGET} {ARTICLE}: Hope Theory: Rainbows in the Mind},\n\tjournal = {Psychological Inquiry}\n}"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "7EECCE84-583A-47F6-9165-17F14C837EE9",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,6 +57,8 @@
     "y": 8
   },
   "glyphBounds": "{{0, 2}, {375, 205}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -66,14 +70,14 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "1F998FC6-BE07-41EB-8361-C7631EC5B43F",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "6B6183D5-5534-4163-B0B0-FA8FAB51B678",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "1F998FC6-BE07-41EB-8361-C7631EC5B43F",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -100,7 +104,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

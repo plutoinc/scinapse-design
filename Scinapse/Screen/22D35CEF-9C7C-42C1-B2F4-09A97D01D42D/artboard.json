@@ -8,6 +8,8 @@
     "green": 1,
     "red": 1
   },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "22D35CEF-9C7C-42C1-B2F4-09A97D01D42D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +41,7 @@
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,6 +51,7 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
@@ -60,11 +64,11 @@
       "id": "A58CFABE-C8ED-4B21-A330-1B8B041F3623"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "41D58EB1-11E1-4E86-B4EB-B4450D550F38"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "06164517-7ED9-4A56-B222-3B50CB73E12A"
     },
     {
@@ -246,7 +250,7 @@
   "style": {
     "_class": "style",
     "do_objectID": "CB3EB367-6E80-4E3B-AD6D-CE50B05F7A6F",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -266,7 +270,8 @@
       }
     ],
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {

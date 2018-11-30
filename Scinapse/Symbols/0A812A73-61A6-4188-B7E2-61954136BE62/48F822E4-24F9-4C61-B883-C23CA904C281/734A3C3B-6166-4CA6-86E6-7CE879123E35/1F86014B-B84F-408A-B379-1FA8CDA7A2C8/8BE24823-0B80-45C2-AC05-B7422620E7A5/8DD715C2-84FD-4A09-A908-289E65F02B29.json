@@ -66,6 +66,8 @@
     "string": "2013 in Journal Name"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "8DD715C2-84FD-4A09-A908-289E65F02B29",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -88,6 +90,8 @@
     "y": 0
   },
   "glyphBounds": "{{0, 4}, {137, 12}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -99,14 +103,14 @@
   "resizingConstraint": 43,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "16FFB9ED-1888-4217-837B-650E3278999E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "EAB11C88-422F-43F9-829C-1A4FFB6F5EBD",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "16FFB9ED-1888-4217-837B-650E3278999E",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "0F1BED2F-56B5-4F83-BC20-5C58EE43BBA7",
@@ -135,7 +139,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

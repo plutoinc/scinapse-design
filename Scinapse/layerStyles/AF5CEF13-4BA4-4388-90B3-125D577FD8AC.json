@@ -4,7 +4,7 @@
   "name": "Image",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -29,7 +29,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "AF5CEF13-4BA4-4388-90B3-125D577FD8AC",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

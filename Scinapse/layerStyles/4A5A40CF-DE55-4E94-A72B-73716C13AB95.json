@@ -10,6 +10,7 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 0,
+      "saturation": 1,
       "type": 0
     },
     "borders": [
@@ -28,9 +29,9 @@
         "thickness": 2
       }
     ],
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "4A5A40CF-DE55-4E94-A72B-73716C13AB95",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

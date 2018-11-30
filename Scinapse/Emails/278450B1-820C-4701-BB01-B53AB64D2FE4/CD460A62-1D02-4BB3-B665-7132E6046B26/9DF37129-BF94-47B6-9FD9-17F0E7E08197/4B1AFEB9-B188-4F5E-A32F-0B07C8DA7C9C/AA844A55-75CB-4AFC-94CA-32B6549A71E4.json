@@ -36,6 +36,8 @@
     "string": "If you don’t update your billing information, your premium account features will end at the conclusion of the previous billing cycle. Please contact us immediately with questions or concerns regarding this notice."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "AA844A55-75CB-4AFC-94CA-32B6549A71E4",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +58,8 @@
     "y": 285
   },
   "glyphBounds": "{{24, 2}, {472, 45}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -67,14 +71,14 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "E9FC76E2-027D-4344-B449-A44535E2909F",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "0A3AC3D5-6AAF-48DE-9A1A-AAAC23C956EB",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "E9FC76E2-027D-4344-B449-A44535E2909F",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -102,7 +106,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

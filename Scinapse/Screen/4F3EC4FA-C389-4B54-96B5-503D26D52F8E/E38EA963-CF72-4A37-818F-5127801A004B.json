@@ -188,6 +188,8 @@
     "string": "Created by Yukyeong · Last updated 3 days ago"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "E38EA963-CF72-4A37-818F-5127801A004B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -210,6 +212,8 @@
     "y": 200
   },
   "glyphBounds": "{{0, 4}, {296, 14}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -221,14 +225,14 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "8CA8E2CE-8BBB-4DE3-B7F4-2DBAF000B48E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "814A7AC5-9BA4-4935-A083-88900E68C35A",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "8CA8E2CE-8BBB-4DE3-B7F4-2DBAF000B48E",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "001B1AE7-EE04-42AA-9A99-9CA67C12BE7E",
@@ -258,7 +262,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

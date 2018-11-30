@@ -36,6 +36,8 @@
     "string": "This one is really remarkable."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "3B074E1E-00AB-419F-916B-D748668D590E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +58,8 @@
     "y": 209
   },
   "glyphBounds": "{{46, 3}, {155, 12}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -67,14 +71,14 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "63E3C384-03F8-4948-AC97-1F8EBBA57A6B",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "653265E5-05DD-4763-BB40-A3FB328ED4A4",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "63E3C384-03F8-4948-AC97-1F8EBBA57A6B",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -102,7 +106,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

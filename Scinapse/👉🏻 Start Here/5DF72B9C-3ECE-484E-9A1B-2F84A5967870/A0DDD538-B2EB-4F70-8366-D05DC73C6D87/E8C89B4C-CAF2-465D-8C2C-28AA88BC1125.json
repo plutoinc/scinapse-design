@@ -36,6 +36,8 @@
     "string": "Send questions, comments, and Teslas to:"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "E8C89B4C-CAF2-465D-8C2C-28AA88BC1125",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +58,8 @@
     "y": 2
   },
   "glyphBounds": "{{0, 6}, {374, 20}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -67,14 +71,14 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "1E523DE4-CB26-4131-99AE-635EC8849157",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "09E7424F-4770-4D51-9D78-98EFA6D3AD50",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "1E523DE4-CB26-4131-99AE-635EC8849157",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -102,7 +106,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

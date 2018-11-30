@@ -37,6 +37,8 @@
     "string": "Welcome to the club!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "5AF5E245-2D7C-42AA-9795-17924612F175",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +59,8 @@
     "y": 106
   },
   "glyphBounds": "{{90, 12}, {339, 28}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,14 +72,14 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "97DA61DD-CFD8-440F-90A1-A63664AE80B3",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "5D25CE4B-8BD8-43F2-A1C7-B6BF6FD1D4A8",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "97DA61DD-CFD8-440F-90A1-A63664AE80B3",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -104,7 +108,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

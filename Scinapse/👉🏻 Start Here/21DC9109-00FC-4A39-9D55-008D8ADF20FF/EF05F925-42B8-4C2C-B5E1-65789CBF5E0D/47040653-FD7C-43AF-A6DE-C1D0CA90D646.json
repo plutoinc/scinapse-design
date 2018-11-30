@@ -35,6 +35,8 @@
     "string": "Color Drop for Black!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "47040653-FD7C-43AF-A6DE-C1D0CA90D646",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,6 +57,8 @@
     "y": 33
   },
   "glyphBounds": "{{0, 2}, {112, 13}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -66,14 +70,14 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "AD7F05F5-AE55-4DAE-A586-2ABD04B032B1",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "10895E87-E9C4-4ACA-AB0B-24F3BF8027BB",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "AD7F05F5-AE55-4DAE-A586-2ABD04B032B1",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -100,7 +104,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

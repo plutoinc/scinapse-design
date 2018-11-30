@@ -37,6 +37,8 @@
     "string": "Intuitive Feed"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "7BA7F090-6193-404E-9FC3-D625D391E543",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -59,6 +61,8 @@
     "y": 594
   },
   "glyphBounds": "{{1, 12}, {120, 16}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -70,14 +74,14 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "97DA61DD-CFD8-440F-90A1-A63664AE80B3",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "D8E6CD54-4B71-421D-BA4F-1A40BC43784C",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "97DA61DD-CFD8-440F-90A1-A63664AE80B3",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "F84F3B0C-9813-4555-B7C8-5D1CB1412B8D",
@@ -107,7 +111,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

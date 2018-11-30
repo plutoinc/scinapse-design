@@ -37,6 +37,8 @@
     "string": "Dialog Title"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "D8458082-E2F5-4789-AE3C-C2EC0A113BFD",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +59,8 @@
     "y": 64
   },
   "glyphBounds": "{{177, 8}, {102, 20}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,14 +72,14 @@
   "resizingConstraint": 42,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "8D57AB48-125F-46F5-B99D-01655C086EB4",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "5A33210C-88E1-4E53-B54D-7599B22E5CC2",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "8D57AB48-125F-46F5-B99D-01655C086EB4",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -104,7 +108,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {
