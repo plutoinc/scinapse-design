@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 8361,
+  "changeIdentifier": 9579,
   "clippingMaskMode": 0,
   "do_objectID": "BAA50E6D-0AF3-416F-825C-2B81C3A8A9DB",
   "exportOptions": {
@@ -59,6 +59,18 @@
     {
       "class": "shapeGroup",
       "id": "0A785589-221D-4F50-B99B-0339140F47BC"
+    },
+    {
+      "class": "rectangle",
+      "id": "A7AB62FE-758F-4E84-9EF1-D08712DDA3FB"
+    },
+    {
+      "class": "rectangle",
+      "id": "8D68E787-9F88-4E9E-9220-36080BD54D39"
+    },
+    {
+      "class": "rectangle",
+      "id": "9BCD94A5-EF2D-4888-85FE-296BE2EC1B00"
     }
   ],
   "layout": {
@@ -76,7 +88,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1200
   },
-  "name": "Icon/Memo",
+  "name": "Icon/Memo/idle",
   "nameIsFixed": true,
   "originalObjectID": "D2ABB5B1-E2D8-43FF-B0CF-C7725F3E1BB0",
   "resizesContent": false,

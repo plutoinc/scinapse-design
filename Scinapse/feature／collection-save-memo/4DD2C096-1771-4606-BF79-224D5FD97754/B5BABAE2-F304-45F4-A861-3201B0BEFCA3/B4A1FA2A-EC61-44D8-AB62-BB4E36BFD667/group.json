@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B4A1FA2A-EC61-44D8-AB62-BB4E36BFD667",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "28CE71A1-1A37-4439-BD83-7B66E6C6D238",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "045EE257-74F1-46FA-A493-E48C02B7BF65",
+    "height": 10,
+    "width": 10,
+    "x": 16,
+    "y": 16
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "DEDF967D-2D1B-424C-96C2-E3A4D0245E8A"
+    },
+    {
+      "class": "shapePath",
+      "id": "5ECFC6F8-5F79-4CED-904E-F77E72F053A9"
+    }
+  ],
+  "name": "Icon/Bookmark",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9909D6FC-1F25-4E1A-ABBE-554F9432DE79",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

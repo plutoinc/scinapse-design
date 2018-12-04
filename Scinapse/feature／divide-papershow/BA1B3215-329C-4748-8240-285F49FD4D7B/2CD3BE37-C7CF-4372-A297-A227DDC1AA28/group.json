@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2CD3BE37-C7CF-4372-A297-A227DDC1AA28",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "79A895BB-B511-4FE1-8271-31016DA723F1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C765C5FA-C4BD-4F72-BA9C-166020C685DA",
+    "height": 36,
+    "width": 121,
+    "x": 1143,
+    "y": 6
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "02ED45E5-95C3-4F03-8229-7D371AC37CD9"
+    },
+    {
+      "class": "text",
+      "id": "20A56C48-A049-4375-BCD7-E6772303FBB0"
+    }
+  ],
+  "name": "Avatar/Fill - Default",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D8394225-B9D8-47FF-A270-F1D62E771087",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AAF89A12-B9D5-4E5C-A45E-F9CBF75E0E7F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C62038C1-64C6-404E-B110-2F2E9145E735",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "AE7E0F65-0EF5-4421-A3A3-67F0BB72314D",
+    "height": 13.64028469750892,
+    "width": 50.75736721583695,
+    "x": 27.66020616840888,
+    "y": 5.124372750269686
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "BCD635B6-28CD-4AA8-93FB-E993F5674D20"
+    },
+    {
+      "class": "shapePath",
+      "id": "4692C4FA-951F-4499-A178-1CE77F0B4B34"
+    },
+    {
+      "class": "shapePath",
+      "id": "A0ECF5EA-6813-430D-AADF-61B3D45E32EA"
+    },
+    {
+      "class": "shapePath",
+      "id": "D5E66171-2813-40C3-85EC-98EE3A463B87"
+    },
+    {
+      "class": "shapePath",
+      "id": "C9823F84-9CB3-46D0-A2CF-4029B9E320B2"
+    },
+    {
+      "class": "shapePath",
+      "id": "995F6E5D-1880-4E93-97AB-202EFCBAEE64"
+    },
+    {
+      "class": "shapePath",
+      "id": "DDC233FF-18F0-4AB9-A273-639C4915B600"
+    },
+    {
+      "class": "shapePath",
+      "id": "5ADD58FA-1102-4C28-BB9D-CD890676E18B"
+    }
+  ],
+  "name": "napse",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "303D3D90-E958-4044-8771-1D44CBFD4B85",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "C8A62985-CEC1-4F04-9418-2C3B4C84F1E2",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2851296768707483,
+          "green": 0.2134703698620586,
+          "red": 0.1418110628533689
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "24292B7D-55A5-41EC-84FC-FA405DFFD38B",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2851296768707483,
+          "green": 0.2134703698620586,
+          "red": 0.1418110628533689
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Avenir-Light",
+            "size": 195
+          }
+        },
+        "kerning": 3,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

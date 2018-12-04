@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B9B817F4-22A9-41D3-8821-5AB2659D8246",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5F884845-D725-4427-9CAC-325B17DD9AFB",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "98F0F993-7A65-4586-B570-E1B2CFB4079F",
+    "height": 20,
+    "width": 20,
+    "x": 256,
+    "y": 1060
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B5E06FA6-7EFD-4E61-8C7B-3D8CA5611C71"
+    },
+    {
+      "class": "shapePath",
+      "id": "A906EC0C-B843-4B1D-A86F-32809EF71FD7"
+    }
+  ],
+  "name": "Twitter_Logo_Blue",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "88B27244-E7EB-412A-970A-52F9C1281EB9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

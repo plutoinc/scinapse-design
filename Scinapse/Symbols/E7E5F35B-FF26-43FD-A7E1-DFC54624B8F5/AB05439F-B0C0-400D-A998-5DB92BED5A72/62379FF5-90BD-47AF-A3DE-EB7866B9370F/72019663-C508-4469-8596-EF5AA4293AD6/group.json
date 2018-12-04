@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "72019663-C508-4469-8596-EF5AA4293AD6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 128,
+    "x": 159,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B5F5CF6A-C04A-4052-8DA2-71B773326C6C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A4530AEC-C5F8-42E2-86D8-D3B21B4FED84"
+    },
+    {
+      "class": "group",
+      "id": "50F72655-ECC9-4E27-A78B-8182B1FD4E1C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D0E22133-6BA3-47EB-AC2B-7D7D27880BB5"
+    }
+  ],
+  "name": "Button/Extra Small - Left Icon",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

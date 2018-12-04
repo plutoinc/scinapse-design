@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "86973FCA-584F-4A5E-B28B-FED00651B09C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A7325FA4-FD3C-46B9-9D84-D593236057AA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "00FE33C7-AECD-440D-8392-244DA5CE96E0",
+    "height": 35,
+    "width": 502,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0F61EE8A-1A66-4959-A57F-5661B7183F3D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "316D5AA7-FD8D-4A38-9E57-A44B42898BA3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "47D8015C-85EF-4DC2-A48E-4DF6FF5F06A0"
+    }
+  ],
+  "name": "Field/Search/PC",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BB123274-A429-4132-A0C9-2F96BC0D050C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

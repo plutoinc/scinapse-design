@@ -1,0 +1,116 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F444C744-4ADE-4A82-9C8A-8195047E9C3E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "08D88269-0F9B-48C9-85ED-784904352518",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "AA200883-3149-4BB9-A1F1-C04744A03CE3",
+    "height": 102,
+    "width": 205,
+    "x": 2823,
+    "y": 255
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "D878FCC0-AB2D-4AED-9AB7-135BE70AC502"
+    },
+    {
+      "class": "shapePath",
+      "id": "36562840-4A8B-4E59-92C0-B1276D2259C5"
+    },
+    {
+      "class": "shapePath",
+      "id": "4D4DF0C9-22BB-46AD-AACF-49FB87D7AD11"
+    },
+    {
+      "class": "shapePath",
+      "id": "94754D0E-F3BA-4657-919F-70AB8C77C04C"
+    },
+    {
+      "class": "shapePath",
+      "id": "853C42AA-D507-42C1-B370-62793F535A0A"
+    }
+  ],
+  "name": "T_T; Copy 17",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "38AA5F0E-EBDF-4909-93EE-DD2B7A513E9C",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "809C8E43-E43E-422A-A5CC-0DD495723124",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "AppleSDGothicNeo-Bold",
+            "size": 240
+          }
+        },
+        "kerning": 0,
+        "ligature": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,116 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "17B24390-84E8-4433-9632-189477ACE2F3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BF9F2A77-0438-49A0-AE86-49D4D5B61CBB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "171EF19F-416A-4516-B915-449FC9A49098",
+    "height": 173.5546875,
+    "width": 331.2890625,
+    "x": 221,
+    "y": 180
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "B39C3203-BBED-4FD2-A967-21C5533A8196"
+    },
+    {
+      "class": "shapePath",
+      "id": "4227005E-358A-423E-8233-28D5914F24E7"
+    },
+    {
+      "class": "shapePath",
+      "id": "135F6FB5-7F0F-40B2-88CE-188B4F5A4262"
+    },
+    {
+      "class": "shapePath",
+      "id": "9906E84B-DC9A-4294-8EAD-E7F3DD4E65D1"
+    },
+    {
+      "class": "shapePath",
+      "id": "84262DA3-9781-49C2-85BD-50A92758502F"
+    }
+  ],
+  "name": "-_-;",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2B1DC18B-93F8-4A30-9A76-277A9EDBD09A",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "30FE533B-9C80-4A31-9713-23DC11AE4BEC",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4862745098039216,
+          "green": 0.4274509803921568,
+          "red": 0.4
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Bold",
+            "size": 240
+          }
+        },
+        "kerning": 0,
+        "ligature": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

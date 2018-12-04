@@ -1,0 +1,120 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "11FD93E1-DB30-4D2E-8F38-B05594011DA2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "33828214-3E03-4F3B-BA2B-B03B03D56F24",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "129467D6-9D31-4F9A-98F7-ABBA47F268F7",
+    "height": 14.12604982206406,
+    "width": 23.62781693134649,
+    "x": 0,
+    "y": 0.3996040669962895
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "8302FDC2-588B-4831-8240-FBA5957FEF75"
+    },
+    {
+      "class": "shapePath",
+      "id": "FDAFC2B4-58BF-4F03-8E98-A9EEEB85467B"
+    },
+    {
+      "class": "shapePath",
+      "id": "32433B2C-84A3-446A-8B69-0A5EDE1015B3"
+    },
+    {
+      "class": "shapePath",
+      "id": "BCEF8E14-EAFC-43A0-8FF7-B2D7030E6C10"
+    }
+  ],
+  "name": "sci",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "F0862388-6A13-4ED1-A702-4C2565307DC1",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "E4413FC6-4112-48B8-A3D9-5B5EC99B7984",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2851296768707483,
+          "green": 0.2134703698620586,
+          "red": 0.1418110628533689
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "63ACB020-28CD-4DE1-BB5D-8FC8C4BA6F85",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2851296768707483,
+          "green": 0.2134703698620586,
+          "red": 0.1418110628533689
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Avenir-Heavy",
+            "size": 195
+          }
+        },
+        "kerning": 10,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "windingRule": 1
+}
